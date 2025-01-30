@@ -1,7 +1,7 @@
 ---
 title: "What is Quantum Cyrstallography?"
 # meta title
-weight: 2
+weight: 1
 meta_title: ""
 # meta description
 description: "Which techniques are available – what can we learn from them?"
@@ -9,4 +9,10 @@ description: "Which techniques are available – what can we learn from them?"
 draft: false
 image: "/images/gallery/what_isQCr.jpeg"
 ---
-Which techniques are available – what can we learn from them?
+
+{{< contributions_welcome >}}
+
+|Introduced by **Piero Macchi**|
+|:-----------:|
+| Definition of concepts|
+| Where interplay can help|

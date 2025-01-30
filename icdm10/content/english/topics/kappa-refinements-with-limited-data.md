@@ -8,7 +8,7 @@ description: "Kappa Refinements with Limited Data"
 # save as draft
 image: "/images/gallery/kappa.jpeg"
 
-draft: false
+draft: true
 ---
 
 Kappa Refinements with Limited Data

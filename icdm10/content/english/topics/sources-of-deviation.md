@@ -6,7 +6,7 @@ meta_title: ""
 description: "Absoprtion, scaling, merging, error models and others"
 # save as draft
 image: "/images/gallery/statistical_deviations.jpeg"
-draft: false
+draft: true
 ---
 
 Absorption, scaling, merging, error models and others

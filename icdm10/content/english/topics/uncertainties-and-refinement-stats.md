@@ -6,7 +6,7 @@ meta_title: ""
 description: "Significance of Differences: Uncertainties and refinement statistics"
 # save as draft
 image: "/images/gallery/uncertainties.jpeg"
-draft: false
+draft: true
 ---
 
 Significance of Differences: Uncertainties and refinement statistics
