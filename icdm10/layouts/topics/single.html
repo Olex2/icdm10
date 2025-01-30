@@ -4,6 +4,17 @@
       <div
         class="row border-border dark:border-darkmode-border justify-center border-b pb-14">
         <div class="lg:col-4 text-center">
+
+          <div class="prev-next-link">
+            <span>
+            {{ if .NextInSection }}
+            <span class="o-nav back"><a class="btn btn-small" href="{{.NextInSection.Permalink}}">Previous</a> {{ end }}</span>
+            {{ if .PrevInSection }}
+            <span class="o-nav next"><a class="btn btn-small" href="{{.PrevInSection.Permalink}}">Next</a> {{ end }}</span>
+            </span>
+         </div>
+
+
           {{ $image:= .Params.image }}
           {{ if $image }}
             {{ partial "image" (dict "Src" $image "Alt" .Title "Class" "mx-auto" "Size" "200x200") }}
@@ -15,7 +26,10 @@
               width="200"
               src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=128&pg&d=identicon" />
           {{ end }}
+
           <h1 class="h3 mt-10">{{ .Title }}</h1>
+
+
           <div class="content mt-6">
             {{ .Content }}
           </div>

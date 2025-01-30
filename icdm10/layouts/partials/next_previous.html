@@ -1,0 +1,13 @@
+<div class="prev-next-link">
+    <span class="fred">
+    
+    {{ if .NextInSection }}
+    
+    <span class="o-nav back"><a class="button-link" href="{{.NextInSection.Permalink}}">Previous</a> {{ end }}</span>
+    
+    {{ if .PrevInSection }}
+    
+    <span class="o-nav next"><a class="button-link" href="{{.PrevInSection.Permalink}}">Next</a> {{ end }}</span>
+    </span>
+ 
+ </div>
