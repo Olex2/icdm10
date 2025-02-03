@@ -5,12 +5,12 @@
 <p align="center">Made with ♥ by <a href="https://zeon.studio/"> Zeon Studio</a></p>
 <p align=center> If you find this project useful, please give it a ⭐ to show your support.</p>
 
-<h2 align="center"> <a target="_blank" href="https://hugoplate.netlify.app/" rel="nofollow">👀 Demo</a> | <a  target="_blank" href="https://pagespeed.web.dev/analysis/https-hugoplate-netlify-app/6lyxjw6t4r?form_factor=desktop">Page Speed (95+)🚀</a>
+<h2 align="center"> <a target="_blank" href="https://zeon.studio/preview?project=hugoplate" rel="nofollow">👀 Demo</a> | <a  target="_blank" href="https://pagespeed.web.dev/analysis/https-hugoplate-netlify-app/6lyxjw6t4r?form_factor=desktop">Page Speed (95+)🚀</a>
 </h2>
 
 <p align="center">
-  <a href="https://github.com/gohugoio/hugo/releases/tag/v0.121.2" alt="Contributors">
-    <img src="https://img.shields.io/static/v1?label=min-HUGO-version&message=0.121.2&color=f00&logo=hugo" />
+  <a href="https://github.com/gohugoio/hugo/releases/tag/v0.126.0" alt="Contributors">
+    <img src="https://img.shields.io/static/v1?label=min-HUGO-version&message=0.126.0&color=f00&logo=hugo" />
   </a>
 
   <a href="https://github.com/zeon-studio/hugoplate/blob/main/LICENSE">
@@ -89,9 +89,9 @@ First you need to [clone](https://github.com/zeon-studio/hugoplate) or [download
 
 To start using this template, you need to have some prerequisites installed on your machine.
 
-- [Hugo Extended v0.115+](https://gohugo.io/installation/)
-- [Node v18+](https://nodejs.org/en/download/)
-- [Go v1.20+](https://go.dev/doc/install)
+- [Hugo Extended v0.124+](https://gohugo.io/installation/)
+- [Node v20+](https://nodejs.org/en/download/)
+- [Go v1.22+](https://go.dev/doc/install)
 
 ### 👉 Project Setup
 
@@ -226,9 +226,9 @@ Copyright (c) 2023 - Present, Designed & Developed by [Zeon Studio](https://zeon
 
 ## 🖼️ Showcase
 
-List of some projects people are building with **Hugoplate**! 
+List of some projects people are building with **Hugoplate**!
 
-| [![Open Neuromorphic](https://tinyurl.com/hp7avtje)](https://open-neuromorphic.org/) | [![AI Models](https://tinyurl.com/mu4p7dhb)](https://aimodels.org/) | [![Hugobricks](https://tinyurl.com/4x3uwhm9)](https://www.hugobricks.preview.usecue.com/) | [![ONO LLC](https://tinyurl.com/yxnu6whn)](https://ono.day/) 
+| [![Open Neuromorphic](https://tinyurl.com/hp7avtje)](https://open-neuromorphic.org/) | [![AI Models](https://tinyurl.com/mu4p7dhb)](https://aimodels.org/) | [![Hugobricks](https://tinyurl.com/4x3uwhm9)](https://www.hugobricks.preview.usecue.com/) | [![ONO LLC](https://tinyurl.com/2fbjzwzn)](https://ono.day/)
 |:---:|:---:|:---:|:---:|
 | **Open Neuromorphic** | **AI Models** | **Hugobricks** | **ONO LLC** |
 

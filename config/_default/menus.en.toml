@@ -1,0 +1,109 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Topics"
+url = "topics/"
+weight = 2
+
+[[main]]
+name = "Abstracts"
+url = "abstracts/"
+weight = 3
+
+[[main]]
+name = "Registration"
+url = "registration/"
+weight = 4
+
+[[main]]
+name = "Topics"
+url = "topics/"
+weight = 2
+
+[[main]]
+weight = 10
+name = "Pages"
+hasChildren = true
+
+
+# [[main]]
+# parent = "Pages"
+# name = "Blog"
+# url = "blog/"
+
+# [[main]]
+# parent = "Pages"
+# name = "Contact"
+# url = "contact/"
+
+# [[main]]
+# parent = "Pages"
+# name = "Authors "
+# url = "authors/"
+
+
+[[main]]
+parent = "Pages"
+name = "About"
+url = "about/"
+weight = 3
+
+
+[[main]]
+parent = "Pages"
+name = "Organisers "
+url = "authors/organisers/"
+
+
+[[main]]
+parent = "Pages"
+name = "Authors"
+url = "authors/"
+weight = 4
+
+[[main]]
+parent = "Pages"
+name = "Abstracts"
+url = "abstracts/"
+weight = 4
+
+[[main]]
+parent = "Pages"
+name = "Sponsors"
+url = "sponsors/"
+weight = 4
+
+
+
+# [[main]]
+# parent = "Pages"
+# name = "Categories"
+# url = "categories/"
+
+# [[main]]
+# parent = "Pages"
+# name = "404 Page"
+# url = "404/"
+
+
+# footer menu
+[[footer]]
+name = "About"
+url = "about/"
+weight = 1
+
+# [[footer]]
+# name = "Elements"
+# url = "elements/"
+# weight = 2
+
+# [[footer]]
+# name = "Privacy Policy"
+# url = "privacy-policy/"
+# weight = 3

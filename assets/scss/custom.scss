@@ -1,2 +1,49 @@
-// DO NOT WRITE ANY STYLE IN THIS FILE
-// If you want to add your own styles, please write it in the `./assets/scss/custom.scss` file.
+// Add your own custom styles here
+
+@media (min-width: 1280px) {
+    .section {
+        padding-top: 1rem;
+        padding-bottom: 7rem;
+    }
+}
+
+@media (min-width: 280px) {
+    .section {
+        padding-top: 1rem;
+        padding-bottom: 7rem;
+    }
+}
+
+.content :is(:where(a):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
+  --tw-text-opacity: 1;
+  color: green;
+  font-weight: 800;
+  text-decoration-line: underline;
+}
+
+.content :is(:where(blockquote):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
+    border-radius: 0.5rem;
+    border-width: 1px;
+    border-left-width: 10px;
+    --tw-border-opacity: 0.5;
+    --tw-bg-opacity: 1;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    font-family: Signika, sans-serif;
+    font-size: 1.1rem;
+    line-height: 1.4rem;
+    font-style: normal;
+    --tw-text-opacity: 1;
+    border-radius: 12px;
+  }
+  
+  .prev-next-link {
+    margin-bottom: 2em;
+  }
+
+  .btn-small {
+    @apply border-primary bg-primary dark:border-darkmode-primary dark:text-dark text-white dark:bg-white rounded-sm px-4 py-1.5 text-sm;
+  }
+  
