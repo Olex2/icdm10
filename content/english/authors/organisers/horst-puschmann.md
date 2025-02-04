@@ -1,7 +1,7 @@
 ---
 title: Horst Puschmann
 email: horst.puschmann@durham.ac.uk
-image: "/images/gallery/HP.jpg"
+image: "/images/authors/HP.jpg"
 description: Horst Puschmann is the local organiser of the ICDM10 in Durham
 social:
   - name: linkedin
