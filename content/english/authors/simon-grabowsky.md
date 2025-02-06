@@ -3,7 +3,6 @@ title: Simon Grabowsky
 email: simon.grabowsky@unibe.ch
 image: "/images/authors/SG.jpg"
 description: 
-draft: true
 ---
 
 Simon Grabowsky will introduce the section

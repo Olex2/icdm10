@@ -7,11 +7,10 @@ weight: 3
 description: "Quantum Crystallographic Bonding Analysis"
 # save as draft
 image: "/images/gallery/topological-analysis-of-cd.jpeg"
+author: "Simon Grabowsky"
 
 draft: false
 ---
-
-{{< contributions_welcome >}}
 
 |Introduced by [Simon Grabowsky](/authors/simon-grabowsky)|
 |:-----------:|

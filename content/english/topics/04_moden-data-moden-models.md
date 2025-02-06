@@ -8,9 +8,8 @@ description: "Modern Diffractometers & Modern Models"
 # save as draft
 image: "/images/gallery/modern_data_modern_models.jpeg"
 draft: false
+author: "Florian Kleemiss"
 ---
-
-{{< contributions_welcome >}}
 
 |Introduced by [Florian Kleemiss](/authors/florian-kleemiss)|
 |:---:

@@ -7,13 +7,11 @@ weight: 6
 description: "Charge Density and Spin Refinement"
 # save as draft
 image: "/images/gallery/charge-density-refinement.jpeg"
-
+author: "Nobody Assigned Yet"
 draft: false
 ---
 
-{{< contributions_welcome >}}
-
-|Introduced by **?**|
+Introduced by [Could this be you?](/authors/nobody-assigned-yet)|
 |:---:|
 |Kappa refinement|
 |Experimental fit of measured densities|

@@ -4,6 +4,7 @@
   {{ if $image }}
     {{ partial "image" (dict "Src" $image "Alt" .Title "Class" "mx-auto mb-6 rounded" "size" "120x120") }}
   {{ else if .Params.Email }}
+  
     <img
       class="mx-auto mb-6 rounded"
       alt="{{ .Title }}"
@@ -11,9 +12,19 @@
       width="120"
       src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=128&pg&d=identicon" />
   {{ end }}
+  
   <h4 class="mb-3">
     <a href="{{ .RelPermalink }}">{{ .Title }}</a>
   </h4>
+
+  <li class="mr-4 inline-block">
+    <a
+      href="{{ `authors/` | relLangURL }}{{ .Params.Author | urlize }}/">
+      <i class="fa-regular fa-circle-user mr-2"></i
+      >{{ .Params.author }}
+    </a>
+  </li>
+
   <ul class="social-icons">
     {{ range .Params.social }}
       <li>

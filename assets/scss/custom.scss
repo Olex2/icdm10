@@ -14,10 +14,16 @@
     }
 }
 
+
+a,
+a:hover {
+  color: rgb(14, 71, 14);
+}
+
 .content :is(:where(a):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
   --tw-text-opacity: 1;
-  color: green;
   font-weight: 800;
+  color: rgb(14, 71, 14);
   text-decoration-line: underline;
 }
 

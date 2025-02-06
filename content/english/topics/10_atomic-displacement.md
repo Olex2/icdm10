@@ -7,11 +7,10 @@ weight: 10
 description: "Atomic Displacement: The big accumulator"
 # save as draft
 image: "/images/gallery/accumulator_1.jpeg"
+author: "Anna Hoser"
 
 draft: false
 ---
-
-{{< contributions_welcome >}}
 
 |Introduced by [Anna Hoser](/authors/anna-hoser)|
 |:---:|

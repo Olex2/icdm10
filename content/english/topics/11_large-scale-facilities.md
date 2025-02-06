@@ -8,9 +8,8 @@ description: "Large-Scale Facilities"
 # save as draft
 draft: false
 image: "/images/gallery/large_scale.jpeg"
+author: "Michael Bodensteiner"
 ---
-
-{{< contributions_welcome >}}
 
 |Introduced by [Michael Bodensteiner](/authors/michael-bodensteiner)|
 |:---:|

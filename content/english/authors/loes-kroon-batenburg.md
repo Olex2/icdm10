@@ -7,4 +7,4 @@ description:
 
 Loes Kroon-Batenburg will introduce the section
 
-[From Frames to Intensity Data](/topics/05_raw-data-to-intensity.mpd)
+[From Frames to Intensity Data](/topics/05_raw-data-to-intensity)

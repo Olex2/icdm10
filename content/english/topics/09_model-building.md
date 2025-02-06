@@ -8,9 +8,8 @@ description: "Model Building"
 # save as draft
 image: "/images/gallery/model_building.jpeg"
 draft: false
+author: "Niklas Ruth"
 ---
-
-{{< contributions_welcome >}}
 
 |Introduced by [Paul Niklas Ruth](/authors/niklas-ruth)|
 |:---:|

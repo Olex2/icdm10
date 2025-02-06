@@ -7,10 +7,9 @@ description: "From Frames to Intensity Data"
 # save as draft
 image: "/images/gallery/frames_to_data.jpeg"
 weight: 5
+author: "Loes Kroon-Batenburg"
 draft: false
 ---
-
-{{< contributions_welcome >}}
 
 |Introduced by [Loes Kroon-Batenburg](/authors/loes-kroon-batenburg)|
 |:---:|
