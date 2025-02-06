@@ -13,7 +13,7 @@ draft: false
 
 {{< contributions_welcome >}}
 
-|Introduced by **Simon Grabowsky**|
+|Introduced by [Simon Grabowsky](/authors/simon-grabowsky)|
 |:-----------:|
 |Insights into Bonding|
 |Intermolecular Interactions|

@@ -11,20 +11,7 @@ banner:
 
 # Features
 features:
-  - title: "Data Quality Matters"
-    image: "/images/gallery/data_quality_matters.jpeg"
-    content: "The overall theme of the ICDM10 in Durham is **Data Quality** and why it matters."
-    bulletpoints:
-      - "Make the most of good diffraction data"
-      - "Get new insights into the chemistry"
-      - "Go beyond the standard"
-
-    button:
-      enable: false
-      label: "Get Started Now"
-      link: "#"
-
-  - title: "The Venue: Durham University Business School"
+  - title: "The Venue: Durham University (old) Business School"
     image: "/images/gallery/venue.png"
     content: "The building has been recently renovated and is located in green surroundings"
     bulletpoints:
@@ -48,16 +35,15 @@ features:
     button:
       enable: true
       label: "Proposed Topics"
-      link: "topics"
+      link: "topics"  
 
   - title: "All-inclusive conference package"
-    image: "/images/gallery/dinner.jpg"
+    image: "/images/collingwood.jpg"
     content: "Durham University offers an all-inclusive conference package at competitive rates. Accommodation, breakfast, tea/coffee, and lunch will all be included in the conference fee."
     bulletpoints:
-      - "Accommodation in Collingwood College, near the conference venue"
+      - "Accommodation in [Collingwood College](https://www.durham.ac.uk/colleges-and-student-experience/colleges/collingwood/), near the conference venue"
       - "Extra days of accommodation can be booked"
-      - "You can opt out of various options"
-      - "Conference dinner in Durham Castle (TBC -- renovation works will hopefully be completed by next year!)"
+      - "Conference dinner Collingwood College included"
     button:
       enable: false
       label: ""

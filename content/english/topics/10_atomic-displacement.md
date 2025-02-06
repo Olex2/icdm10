@@ -13,7 +13,7 @@ draft: false
 
 {{< contributions_welcome >}}
 
-|Introduced by **Anna Hoser**|
+|Introduced by [Anna Hoser](/authors/anna-hoser)|
 |:---:|
 |Improved analysis of ADPs|
 |Alternative modelling (other than LS)|

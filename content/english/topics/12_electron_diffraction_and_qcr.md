@@ -12,7 +12,7 @@ image: "/images/gallery/ed.jpeg"
 
 {{< contributions_welcome >}}
 
-|Introduced by **Paulina Dominiak**|
+|Introduced by [Paulina Dominiak](/authors/paulina-dominiak)|
 |:---:|
 |How to bring the two together?|
 |What can we learn from this? |

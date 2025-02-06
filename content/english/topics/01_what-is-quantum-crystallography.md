@@ -12,7 +12,7 @@ image: "/images/gallery/what_isQCr.jpeg"
 
 {{< contributions_welcome >}}
 
-|Introduced by **Piero Macchi**|
+|Introduced by [Piero Macchi](/authors/piero-macchi)|
 |:-----------:|
 | Definition of concepts|
 | Where interplay can help|
