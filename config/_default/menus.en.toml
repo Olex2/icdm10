@@ -61,11 +61,11 @@ name = "Organisers "
 url = "authors/organisers/"
 
 
-[[main]]
-parent = "Pages"
-name = "Authors"
-url = "authors/"
-weight = 4
+# [[main]]
+# parent = "Pages"
+# name = "Authors"
+# url = "authors/"
+# weight = 4
 
 [[main]]
 parent = "Pages"
