@@ -9,6 +9,7 @@ banner:
     label: "Proposed Topics"
     link: "topics"
 
+
 # Features
 features:
   - title: "The Venue: Durham University (old) Business School"
@@ -48,4 +49,12 @@ features:
       enable: false
       label: ""
       link: ""
+
+  - title: "Contact Us"
+    content: "Please contact us with any questions and comments you may have."
+    button:
+      enable: true
+      label: "Contact us at info@icdm10.org"
+      link: "mailto:info@icdm10.org"
+
 ---

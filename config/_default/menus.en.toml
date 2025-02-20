@@ -50,7 +50,7 @@ hasChildren = true
 
 [[main]]
 parent = "Pages"
-name = "About"
+name = "Contact Us"
 url = "about/"
 weight = 3
 
