@@ -3,7 +3,9 @@ title: "Registration"
 ---
 
 
-Please [**register here**](https://pay.durham.ac.uk/event-durham/icdm10).
+<br>
+
+{{< button label="Register Here" link="https://pay.durham.ac.uk/event-durham/icdm10" style="solid" >}}
 
 |The registration includes the following for all participants:|
 |:--:|
@@ -23,7 +25,7 @@ Please [**register here**](https://pay.durham.ac.uk/event-durham/icdm10).
 
 **400 GBP** (without accommodation)
 
-Please [**register here**](https://pay.durham.ac.uk/event-durham/icdm10).
+{{< button label="Register Here" link="https://pay.durham.ac.uk/event-durham/icdm10" style="solid" >}}
 
 
 |             | Monday            | Tuesday          | Wednesday                              | Thursday         | Friday |
