@@ -4,7 +4,7 @@
     .section {
         padding-top: 1rem;
         padding-bottom: 7rem;
-    }
+      }
 }
 
 @media (min-width: 280px) {
@@ -53,3 +53,7 @@
     @apply border-primary bg-primary dark:border-darkmode-primary dark:text-dark text-white dark:bg-white rounded-sm px-4 py-1.5 text-sm;
   }
   
+
+.content{
+  font-size: 1.3rem;
+}
