@@ -1,9 +1,9 @@
 ---
-title: Regine Herbst Irmer
+title: Regine Herbst-Irmer
 email: 
 image: "/images/authors/RHI.jpg"
 description: 
-draft: true
+draft: false
 ---
 
 Regine Herbst-Irmer will introduce the section
