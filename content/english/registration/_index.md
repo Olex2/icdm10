@@ -28,25 +28,4 @@ title: "Registration"
 {{< button label="Register Here" link="https://pay.durham.ac.uk/event-durham/icdm10" style="solid" >}}
 
 
-|             | Monday            | Tuesday          | Wednesday                              | Thursday         | Friday |
-| ----------- | ----------------- | ---------------- | -------------------------------------- | ---------------- | ------ |
-| 9.00am      | Registration      | Session        | Session                              | Session       | Home   |
-| 9.30am      |                   |                  |                                        |                  |        |
-| 10.00am     | Introductory Talk |                  |                                        |                  |        |
-| 10.30am     | Tea/coffee break  | Tea/coffee break | Tea/coffee break                       | Tea/coffee break |        |
-| 11.00am     | Session         | Session         | Session                              | Session       |        |
-| 11.30am     |                   |                  |                                        |                  |        |
-| 12.00pm     |                   |                  | Free afternoon, Packed Lunch available |                  |        |
-| 12.30pm     | Lunch             | Lunch            |                                        | Lunch            |        |
-| 1.00pm      |                   |                  | Cathedral Tours Groups 1- 3            |                  |        |
-| 1.30pm      | Session         | Session        |                                        | Session       |        |
-| 2.00pm      |                   |                  | Cathedral Tours Groups 4-6             |                  |        |
-| 2.30pm      |                   |                  |                                        |                  |        |
-| 3.00pm      | Tea/coffee break  | Tea/coffee break |                                        | Tea/coffee break |        |
-| 3.30pm      | Session         | Session        |                                        | Session       |        |
-| 4.00pm      |                   |                  |                                        |                  |        |
-| 4.30pm      |                   |                  |                                        |                  |        |
-| 5.00pm      | Free evening      | Free evening     |                                        | Free evening     |        |
-|             |                   |                  |                                        |                  |        |
-| 6.30pm      |                   |                  | Bar open                               |                  |        |
-| 7.00pm-late |                   |                  | Conference dinner                      |                  |        |
+![Provisional Timetable](/images/gallery/timetable.png)
