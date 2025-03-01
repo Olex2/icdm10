@@ -1,5 +1,5 @@
 ---
-title: "What is Quantum Cyrstallography?"
+title: "What is Quantum Crystallography?"
 # meta title
 weight: 1
 meta_title: ""
