@@ -17,3 +17,9 @@ author: "Michael Bodensteiner"
 |Data transfer|
 |Automation|
 |Impossible experiments|
+
+### Confirmed Speaker
+
+[Alison Edwards](/authors/alison-edwards)
+
+[Christoph Henning](/authors/christoph-henning)

@@ -3,6 +3,8 @@ title: Michael Bodensteiner
 email: michael@olexsys.org
 image: "/images/authors/MB.jpg"
 description: 
+weight: 10
+
 social:
   - name: linkedin
     icon: fa-brands fa-linkedin
@@ -14,7 +16,7 @@ social:
 
 ---
 
-Michael Bodensteiner will introduce the section
+**Michael Bodensteiner** will introduce the section
 
 [Large Scale Facilities ](/topics/11_large-scale-facilities)
 

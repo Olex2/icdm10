@@ -9,9 +9,15 @@ description: "Which techniques are available – what can we learn from them?"
 draft: false
 author: "Piero Macchi"
 image: "/images/gallery/what_isQCr.jpeg"
+tags: ["abstract", "conference"]
+
 ---
 
 |Introduced by [Piero Macchi](/authors/piero-macchi)|
 |:-----------:|
 | Definition of concepts|
 | Where interplay can help|
+
+### Confirmed Speaker
+
+[John Tse](/authors/john-tse)

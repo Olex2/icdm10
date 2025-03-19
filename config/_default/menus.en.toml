@@ -42,10 +42,10 @@ hasChildren = true
 # name = "Contact"
 # url = "contact/"
 
-# [[main]]
-# parent = "Pages"
-# name = "Authors "
-# url = "authors/"
+[[main]]
+parent = "Pages"
+name = "Authors "
+url = "authors/"
 
 
 [[main]]

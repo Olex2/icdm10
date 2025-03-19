@@ -3,6 +3,7 @@ title: Niklas Ruth
 email: paul.n.ruth@durham.ac.uk
 image: "/images/authors/PNR.jpg"
 description: Niklas Ruth is a local organiser of the ICDM10
+weight: 170
 social:
   - name: github
     icon: fa-brands fa-github
@@ -13,6 +14,6 @@ social:
     link: https://bsky.app/profile/crystallographer.bsky.social
 ---
 
-Niklas Ruth will introduce the section
+**Niklas Ruth** will introduce the section
 
 [Model Building](/topics/09_model-building)
