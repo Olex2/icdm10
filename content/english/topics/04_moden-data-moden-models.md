@@ -16,3 +16,6 @@ author: "Florian Kleemiss"
 |Quality Descriptors|
 |I would have never seen this|
 |Uncertainties and Refinement Statistics|
+
+### Confirmed Speakers
+[Florian Kleemiss](/authors/florian-kleemiss)

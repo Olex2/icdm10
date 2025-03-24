@@ -16,3 +16,6 @@ author: "Paulina Dominiak"
 |How to bring the two together?|
 |What can we learn from this? |
 |Does this work for protein structures?|
+
+### Confirmed Speakers
+[Paulina Dominiak](/authors/paulina-dominiak)|

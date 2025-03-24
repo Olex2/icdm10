@@ -12,6 +12,10 @@ social:
     icon: fa-brands fa-bluesky
     link: https://bsky.app/profile/mulomulo.bsky.social
  
+  - name: OrcidID
+    icon: fa-brands fa-orcid
+    link: https://orcid.org/0000-0002-6819-9226
+
 ---
 
 Horst Puschmann is the local organiser of the ICDM10 in Durham

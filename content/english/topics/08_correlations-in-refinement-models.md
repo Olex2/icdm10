@@ -11,8 +11,11 @@ author: "Regine Herbst-Irmer"
 draft: false
 ---
 
-Introduced by [Could this be you?](/authors/nobody-assigned-yet)|
+Introduced by [Regine Herbst-Irmner](/authors/regine-herbst-irmer)|
 |:---:|
 |Things you can't see independently (disorder/ADPs)|
 |Pitfalls and remedies|
 |Best practices |
+
+### Confirmed Speakers
+[Regine Herbst-Irmner](/authors/regine-herbst-irmer)

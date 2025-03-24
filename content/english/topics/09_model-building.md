@@ -17,3 +17,6 @@ author: "Niklas Ruth"
 |Methods development|
 |Software development|
 |Benchmarks|
+
+### Confirmed Speakers
+[Paul Niklas Ruth](/authors/niklas-ruth)

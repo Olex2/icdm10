@@ -11,11 +11,11 @@ social:
 
   - name: Likedin
     icon: fa-brands fa-linkedin
-    link: linkedin.com/in/florian-kleemiß-6a4ab42aa
+    link: https://www.linkedin.com/in/florian-kleemi%C3%9F-6a4ab42aa/
 
   - name: OrcidID
     icon: fa-brands fa-orcid
-    link: linkedin.com/in/florian-kleemiß-6a4ab42aa
+    link: https://orcid.org/0000-0002-3631-1535
 
 ---
 

@@ -3,7 +3,7 @@ title: Anna Krawczuk
 email: 
 image: "/images/authors/AK.jpg"
 description: 
-weight: 12
+weight: 49
 
 ---
 

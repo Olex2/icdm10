@@ -20,4 +20,7 @@ tags: ["abstract", "conference"]
 
 ### Confirmed Speaker
 
+[Piero Macchi](/authors/piero-macchi)
+
 [John Tse](/authors/john-tse)
+

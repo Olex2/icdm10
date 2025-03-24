@@ -18,7 +18,8 @@ author: "Michael Bodensteiner"
 |Automation|
 |Impossible experiments|
 
-### Confirmed Speaker
+### Confirmed Speakers
+[Michael Bodensteiner](/authors/michael-bodensteiner)
 
 [Alison Edwards](/authors/alison-edwards)
 

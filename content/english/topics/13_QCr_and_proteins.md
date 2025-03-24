@@ -12,6 +12,9 @@ author: "Nobody Assigned Yet"
 
 ---
 
-Introduced by [Could this be you?](/authors/nobody-assigned-yet)|
+Introduced by [Ashwin Chari](/authors/ashwin-chari)|
 |:---:|
 |How can QCr help with protein structures?|
+
+### Confirmed Speakers
+[Ashwin Chari](/authors/ashwin-chari)

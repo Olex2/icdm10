@@ -17,3 +17,6 @@ draft: false
 |Improved analysis of ADPs|
 |Alternative modelling (other than LS)|
 |Insights gained from ADPs|
+
+### Confirmed Speakers
+[Paul Niklas Ruth](/authors/niklas-ruth)

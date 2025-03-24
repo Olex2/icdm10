@@ -17,3 +17,6 @@ draft: false
 |Insights into Bonding|
 |Intermolecular Interactions|
 |The interface between Quantum Chemistry and Crystallography|
+
+### Confirmed Speakers
+[Simon Grabowsky](/authors/simon-grabowsky)

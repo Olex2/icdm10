@@ -15,3 +15,6 @@ author: "Alessandro Genoni"
 |:--:|
 |Advances in methodology|
 |Derived results|
+
+### Confirmed Speakers
+[Alessandro Genoni](/authors/alessandro-genoni)
