@@ -1,8 +1,7 @@
 ---
 title: John Tse
 email: 
-# image: "/images/authors/JT.jpg"
-image: "/images/avatar.png"
+image: "/images/authors/JT.jpg"
 description: 
 weight: 5080
 
