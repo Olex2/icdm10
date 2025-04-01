@@ -44,11 +44,20 @@ features:
     bulletpoints:
       - "Accommodation in [Collingwood College](https://www.durham.ac.uk/colleges-and-student-experience/colleges/collingwood/), near the conference venue"
       - "Extra days of accommodation can be booked"
-      - "Conference dinner Collingwood College included"
+      - "Conference Dinner in Duhrham Castle included"
     button:
       enable: false
       label: ""
       link: ""
+
+  - title: "Conference Dinner"
+    image: "/images/gallery/CastleHall.jpg"
+    content: "The Conference Dinner will be held in the great hall of Durham Castle"
+    button:
+      enable: false
+      label: ""
+      link: ""
+
 
   - title: "Contact Us"
     content: "Please contact us with any questions and comments you may have."

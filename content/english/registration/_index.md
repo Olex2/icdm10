@@ -11,7 +11,7 @@ title: "Registration"
 |:--:|
 |[**Accommodation**](https://www.durham.ac.uk/colleges-and-student-experience/colleges/collingwood/) and breakfast for 5 nights (Sunday 13{{< sub "th" >}} - Thursday 17{{< sub "th" >}} of July 2025), optional|
 |Lunch and tea/coffee breaks (Monday 14{{< sub "th" >}} - Thursday 17{{< sub "th" >}} of July 2025)|
-|Conference Dinner (Wednesday 16{{< sub "th" >}} of July 2025)|
+|Conference Dinner in Durham Castle (Wednesday 16{{< sub "th" >}} of July 2025)|
 
 **Early Bird Registration (up to 30{{< sub "th" >}} April 2025)**
 
