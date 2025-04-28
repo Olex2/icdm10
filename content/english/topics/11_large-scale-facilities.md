@@ -23,4 +23,4 @@ author: "Michael Bodensteiner"
 
 [Alison Edwards](/authors/alison-edwards)
 
-[Christoph Henning](/authors/christoph-henning)
+[Christoph Hennig](/authors/christoph-hennig)
