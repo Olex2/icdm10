@@ -2,12 +2,15 @@
 # Banner
 banner:
   title: "ICDM10 Durham<br>July 14<sup>th</sup>-- 17<sup>th</sup> 2025"
-  content: "**The International Charge Density Meeting will be held in Durham, UK in July 2025.**"
+  content: "**Do you want to make the most of your diffraction data?
+Learn how Quantum Crytallography can do this for all of your structures! The International Charge Density Meeting will be held in Durham, UK in July 2025.**"
   image: "/images/ICDM10.jpg"
   button:
     enable: true
     label: "Proposed Topics"
     link: "topics"
+
+
 
 
 # Features
