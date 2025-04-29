@@ -49,11 +49,33 @@
     margin-bottom: 2em;
   }
 
+
+  .btn {
+    color: #ffffff !important
+  }  
+  
   .btn-small {
     @apply border-primary bg-primary dark:border-darkmode-primary dark:text-dark text-white dark:bg-white rounded-sm px-4 py-1.5 text-sm;
   }
+
+  .btn-primary:is(.dark *) {
+    --tw-border-opacity: 1;
+    --tw-bg-opacity: 1;
+    background-color: #ffffff;
+    --tw-text-opacity: 1;
+    color: #000000 !important;
+}
   
 
 .content{
   font-size: 1.3rem;
 }
+
+
+.content :is(:where(a):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
+  --tw-text-opacity: 1;
+  color: #49a10e;
+  text-decoration-line: underline;
+  font-weight: 800;
+}
+

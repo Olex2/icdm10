@@ -2,7 +2,7 @@
 
 # main menu
 [[main]]
-name = "Authors"
+name = "Speakers"
 url = "authors/"
 weight = 1
 

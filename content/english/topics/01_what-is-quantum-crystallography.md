@@ -9,7 +9,6 @@ description: "Which techniques are available – what can we learn from them?"
 draft: false
 author: "Piero Macchi"
 image: "/images/gallery/what_isQCr.jpeg"
-tags: ["abstract", "conference"]
 
 ---
 

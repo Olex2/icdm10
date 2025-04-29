@@ -1,4 +1,4 @@
 ---
-title: "Authors"
+title: "Speakers"
 draft: false
 ---

@@ -2,7 +2,6 @@
 title: Regine Herbst-Irmer
 email: 
 image: "/images/authors/RHI.jpg"
-image: "/images/avatar.png"
 description: 
 draft: false
 weight: 35

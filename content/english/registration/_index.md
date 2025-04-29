@@ -7,6 +7,12 @@ title: "Registration"
 
 {{< button label="Register Here" link="https://pay.durham.ac.uk/event-durham/icdm10" style="solid" >}}
 
+> Note: The registaration to the conference and the [abstract submission](/abstracts/samples_abstract/) are indepentent processes. There is no hard deadline for the submission of abstracts and you can change your abstract at any time.
+
+{{< button label="Submit Abstract" link="https://forms.gle/7C9k4Fwdsqqf8N3PA" style="solid" >}}
+
+
+
 |The registration includes the following for all participants:|
 |:--:|
 |[**Accommodation**](https://www.durham.ac.uk/colleges-and-student-experience/colleges/collingwood/) and breakfast for 5 nights (Sunday 13{{< sub "th" >}} - Thursday 17{{< sub "th" >}} of July 2025), optional|

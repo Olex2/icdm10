@@ -1,5 +1,5 @@
 ---
 title: "Abstracts"
 meta_title: ""
-description: "this is meta description"
+description: "The abstracts section of the ICDM10"
 ---
