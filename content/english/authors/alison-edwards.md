@@ -1,8 +1,7 @@
 ---
 title: Alison Edwards
 email: 
-# image: "/images/authors/AE.jpg"
-image: "/images/avatar.png"
+image: "/images/authors/AE.jpg"
 description: 
 weight: 21 
 

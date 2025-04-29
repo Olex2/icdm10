@@ -2,7 +2,6 @@
 title: Paulina Dominiak
 email: simon.grabowsky@unibe.ch
 image: "/images/authors/PD.jpg"
-image: "/images/avatar.png"
 weight: 20
 description: 
 ---

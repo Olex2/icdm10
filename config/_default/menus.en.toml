@@ -2,8 +2,8 @@
 
 # main menu
 [[main]]
-name = "Home"
-url = "/"
+name = "Authors"
+url = "authors/"
 weight = 1
 
 [[main]]

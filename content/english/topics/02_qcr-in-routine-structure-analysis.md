@@ -6,12 +6,12 @@ weight: 2
 # meta description
 description: "What can QCr bring to routine structures?"
 # save as draft
-author: "Nobody Assigned Yet"
+author: "Anna Makal"
 image: "/images/gallery/routine.jpeg"
 draft: false
 ---
 
-Introduced by [Could this be you?](/authors/nobody-assigned-yet)|
+Introduced by [Could this be you?](/authors/anna-makal)|
 |:-----------:|
 |How much and what can we gain?|
 |Things that would have been missed|

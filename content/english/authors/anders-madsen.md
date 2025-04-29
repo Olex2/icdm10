@@ -1,7 +1,7 @@
 ---
 title: Anders Madsen
 email: 
-image: "/images/authors/AM.jpg"
+image: "/images/authors/AOM.jpg"
 description: 
 weight: 68  
 

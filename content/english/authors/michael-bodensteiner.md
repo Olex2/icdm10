@@ -10,10 +10,6 @@ social:
     icon: fa-brands fa-linkedin
     link: https://www.linkedin.com/in/michael-bodensteiner-846b8a82/
 
-  - name: bluesky
-    icon: fa-brands fa-bluesky
-    link: https://www.linkedin.com/in/michael-bodensteiner-846b8a82/
-
 ---
 
 **Michael Bodensteiner** will introduce the section

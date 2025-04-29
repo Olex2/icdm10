@@ -3,7 +3,7 @@ title: Niklas Ruth
 email: paul.n.ruth@durham.ac.uk
 image: "/images/authors/PNR.jpg"
 description: Niklas Ruth is a local organiser of the ICDM10
-weight: 170
+weight: 190 
 social:
   - name: github
     icon: fa-brands fa-github

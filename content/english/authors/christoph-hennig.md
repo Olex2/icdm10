@@ -1,8 +1,7 @@
 ---
 title: Christoph Hennig
 email: 
-# image: "/images/authors/JT.jpg"
-image: "/images/avatar.png"
+image: "/images/authors/CH.jpg"
 description:
 weight: 33
 
