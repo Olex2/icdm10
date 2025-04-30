@@ -64,6 +64,7 @@ features:
 
   - title: "Contact Us"
     content: "Please contact us with any questions and comments you may have."
+    image: "/images/castle.png"
     button:
       enable: true
       label: "Contact us at info@icdm10.org"
