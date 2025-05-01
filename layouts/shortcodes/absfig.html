@@ -1,0 +1,45 @@
+{{ $image := .Get "image"}}
+{{ $type_arr := split $image "." }}
+{{ $srcbase := index $type_arr 0 }}
+{{ $srctype := index $type_arr 1 }}
+
+{{ $width := .Get "width" | default "80%" }}
+{{ $caption := .Get "caption" | default "true" }}
+{{ $float := .Get "float" | default "right" }}
+{{ $class := .Get "class" | default "float-figure" }}
+   
+
+<!--{{ printf "image: %s" $image }}-- 
+<!--{{ printf "type_arr: %s" $type_arr }}-->
+<!--{{ printf "srcbase: %s" $srcbase }}-->
+<!--{{ printf "srctype: %s" $srctype }}-->
+
+<figure class="{{ $class }}" style="--float: {{ $float }};">
+
+
+{{ if $srctype }}
+
+<img src="{{ .Get `image` }}" alt="{{.Get `alt` }}" defer>
+
+{{ else }}
+
+<picture>
+  <source srcset="{{ $srcbase }}.webp" type="image/webp">
+  <source srcset="{{ $srcbase }}.jpg" type="image/jp2">
+  <source srcset="{{$srcbase}}.png" type="image/png">
+  <img src="{{ .Get `image` }}" alt="{{.Get `alt` }}" defer>
+</picture>
+
+{{ end }}
+
+
+{{ if eq $caption "true"}}
+
+<figcaption class="figcaption">
+   <p class="caption">{{.Get "alt" }}
+   </p>
+</figcaption>
+
+{{ end }}
+
+</figure>

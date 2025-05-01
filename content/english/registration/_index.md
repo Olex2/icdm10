@@ -19,15 +19,15 @@ title: "Registration"
 |Lunch and tea/coffee breaks (Monday 14{{< sub "th" >}} - Thursday 17{{< sub "th" >}} of July 2025)|
 |Conference Dinner in Durham Castle (Wednesday 16{{< sub "th" >}} of July 2025)|
 
-**Early Bird Registration (up to 30{{< sub "th" >}} April 2025)**
+**Early Bird Registration (up to 10{{< sub "th" >}} May 2025)**
 
 **550 GBP** (with accommodation)
 
 **350 GBP** (without accommodation)
 
-**Late Bird Registration (1{{< sub "st" >}} May 2025 - 10{{< sub "th" >}} June 2025)**
+**%Bird Registration (11{{< sub "st" >}} May 2025 - 10{{< sub "th" >}} June 2025)**
 
-**600 GBP** (with accommodation
+**600 GBP** (with accommodation)
 
 **400 GBP** (without accommodation)
 
