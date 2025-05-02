@@ -4,10 +4,11 @@ author: "Sakshi"
 affiliation: "Indian Institute of Science Education and Research Mohali"
 meta_title: ""
 description: ""
-date: 2025-06-21
+summary: Intermolecular interactions offered by halogens are versatile, unpredictable, and mostly stabilizing. Among the halogens, the interactions offered by fluorine deserve special attention
+date: 2025-05-02
 categories: ["Talk"]
-tags: ["H-bonding"]
-draft: true
+tags: ["H-bonding", "intermolecular interactions", "halogens"]
+draft: true  
 params:
   math: true
 ---
@@ -18,11 +19,12 @@ params:
 
 ##### Email: ph21091@iisermohali.ac.in
 
-Intermolecular interactions offered by halogens are versatile, unpredictable, and mostly stabilizing. Among the halogens, the interactions offered by fluorine deserve special attention due to its high electronegativity, low polarizability, and frequent occurrence in drugs and pharmaceuticals. The importance of C–H⋯F–C hydrogen bonds and C–F⋯F–C interactions in various organic molecules was demonstrated through structural and computational analysis [1,2]. The best understanding of such weak interactions can be achieved using experimental and theoretical charge density analysis based on the high-resolution X-ray diffraction data [3,4]. Herein, a symmetry-independent type I C–F⋯F–C interaction and C–H⋯F–C hydrogen bonds in the presence of symmetry-related C–H⋯F–C hydrogen bonds in an isoquinoline derivative have been quantified based on high-resolution X-ray diffraction data, which are devoid of any other stronger interactions like N–H⋯O, O–H⋯O, N–H⋯N, and O–H⋯O hydrogen bonds. Additionally, the potency of this molecule as an anti-implantation agent has been evaluated against the cyclooxygenase-2 (COX-2) enzyme through molecular docking studies. The stabilizing nature of the interactions involving organic fluorine in this biologically potent molecule has been confirmed using interaction energy calculations, qualitative analysis of electrostatic potential plots (Fig. 1), and topological analyses of electron density obtained from both experimental and theoretical charge density analyses. Interesting aspects of these studies will be presented.
+Intermolecular interactions offered by halogens are versatile, unpredictable, and mostly stabilizing. Among the halogens, the interactions offered by fluorine deserve special attention due to its high electronegativity, low polarizability, and frequent occurrence in drugs and pharmaceuticals. The importance of C–H⋯F–C hydrogen bonds and C–F⋯F–C interactions in various organic molecules was demonstrated through structural and computational analysis [1,2]. The best understanding of such weak interactions can be achieved using experimental and theoretical charge density analysis based on the high-resolution X-ray diffraction data [3,4]. 
 
-![3D Electrostatic potential plots highlighting the C–F⋯F–C interactions (left experimental, right theoretical).](/images/abstracts/sakshi.png)
+{{< absfig image="/images/abstracts/sakshi.png" alt="3D Electrostatic potential plots highlighting the C–F⋯F–C interactions (left experimental, right theoretical)." width="70%">}}
 
-###### **Figure 1**. 3D Electrostatic potential plots highlighting the C–F⋯F–C interactions (left experimental, right theoretical).
+Herein, a symmetry-independent type I C–F⋯F–C interaction and C–H⋯F–C hydrogen bonds in the presence of symmetry-related C–H⋯F–C hydrogen bonds in an isoquinoline derivative have been quantified based on high-resolution X-ray diffraction data, which are devoid of any other stronger interactions like N–H⋯O, O–H⋯O, N–H⋯N, and O–H⋯O hydrogen bonds. Additionally, the potency of this molecule as an anti-implantation agent has been evaluated against the cyclooxygenase-2 (COX-2) enzyme through molecular docking studies. The stabilizing nature of the interactions involving organic fluorine in this biologically potent molecule has been confirmed using interaction energy calculations, qualitative analysis of electrostatic potential plots (Fig. 1), and topological analyses of electron density obtained from both experimental and theoretical charge density analyses. Interesting aspects of these studies will be presented.
+
 
 ### References:
 

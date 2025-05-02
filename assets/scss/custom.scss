@@ -120,13 +120,46 @@ figure.floatleft {
   margin-left: 1em;
   margin-top: 0.5em;
   margin-bottom: auto;
+  text-align: center;
 }
 
 .figcaption {
   caption-side: bottom;
   line-height: 1.1em;
   width: 100%;
-  font-weight: 900;
+  font-weight: 400;
   font-size: 100%;
   text-align: center;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+// @media (min-width: 768px) {
+//   h2, .h2 {
+//       font-size: 2rem;
+//   }
+//   h3, .h3 {
+//     font-size: 1.2rem !important;
+//   }
+//   h5, .h5 {
+//     font-size: 1rem;
+// }
+// }
+
+
+h1.h2.mb-4{
+  font-size: 1.6em; 
+}
+
+.content :is(:where(h3):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
+  font-size: 1.2em; 
+}
+
+.content :is(:where(h4):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
+  font-size: 1em; 
+}
+
+.content :is(:where(h5):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
+  font-size: 0.8em; 
+  font-weight: 400;
 }
