@@ -11,7 +11,7 @@ image: "/images/gallery/routine.jpeg"
 draft: false
 ---
 
-Introduced by [Could this be you?](/authors/anna-makal)|
+Introduced by [Anna Makal](/authors/anna-makal)|
 |:-----------:|
 |How much and what can we gain?|
 |Things that would have been missed|
