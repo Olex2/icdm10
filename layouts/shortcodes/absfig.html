@@ -1,4 +1,6 @@
-{{ $image := .Get "image"}}
+{{ $src := .Get "src"}}
+{{ $image := resources.Get $src }}
+
 {{ $type_arr := split $image "." }}
 {{ $srcbase := index $type_arr 0 }}
 {{ $srctype := index $type_arr 1 }}
@@ -9,30 +11,18 @@
 {{ $class := .Get "class" | default "float-figure" }}
    
 
-<!--{{ printf "image: %s" $image }}-- 
-<!--{{ printf "type_arr: %s" $type_arr }}-->
-<!--{{ printf "srcbase: %s" $srcbase }}-->
-<!--{{ printf "srctype: %s" $srctype }}-->
-
 <figure class="{{ $class }}" style="--width: {{ $width }}; --float: {{ $float }};">
 
-
-{{ if $srctype }}
-
-<img src="{{ .Get `image` }}" width="{{ $width }}" alt="{{.Get `alt` }}" defer>
-
-{{ else }}
-
-<picture>
-  <source srcset="{{ $srcbase }}.webp" type="image/webp">
-  <source srcset="{{ $srcbase }}.jpg" type="image/jp2">
-  <source srcset="{{$srcbase}}.png" type="image/png">
-  <img src="{{ .Get `image` }}" width="{{ $width }}" alt="{{.Get `alt` }}" defer>
-</picture>
-
-{{ end }}
-
-
+  {{ $src := .Get "src" }}
+  {{/* Try to fetch the image as a page resource */}}
+  {{ $image := resources.Get $src }}
+  {{ if $image }}
+      {{/* If found, it's an asset that can be processed */}}
+      <img src="{{ $image.Permalink }}" alt="{{ .Get "caption" }}">
+  {{ else }}
+      {{/* Fallback to using absURL for static images */}}
+      <img src="{{ $src | absURL }}" alt="{{ .Get "caption" }}">
+  {{ end }}
 {{ if eq $caption "true"}}
 
 <figcaption class="figcaption">
