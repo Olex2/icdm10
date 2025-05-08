@@ -4,7 +4,6 @@ description: "Support for Students and early career scientists"
 ---
 
 
-
 <a href="https://www.dectris.com/" target="_blank" rel="noopener">
 <img src="/images/gallery/dectris.png" alt="DECTRIS" class="image-zoom"></a>
 
