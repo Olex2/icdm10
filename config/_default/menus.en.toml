@@ -22,11 +22,6 @@ url = "registration/"
 weight = 4
 
 [[main]]
-name = "Topics"
-url = "topics/"
-weight = 2
-
-[[main]]
 weight = 10
 name = "Pages"
 hasChildren = true
