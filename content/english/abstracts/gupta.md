@@ -7,11 +7,7 @@ meta_title: ""
 description: ""
 date: 2025-02-21
 categories: ["Talk"]
-<<<<<<< HEAD
 tags: ["H-bonding", "polymorphism", "ferroelectricity"]
-=======
-tags: ["H-bonding", "polymorhism"]
->>>>>>> tmp
 draft: false
 summary: Polymorphism, i.e., the ability of a molecule to possess diverse spatial arrangements in crystalline form, can lead to the exhibition of distinct properties.
 params:
