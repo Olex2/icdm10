@@ -1,5 +1,5 @@
 ---
-title: "Quantitative and Qualitative Analyses of Symmetry Independent C–F⋯F–C Interaction and C-H⋯F–C Hydrogen Bonds in a Biologically Potent Isoquinoline Derivative: Insights from Charge Density Analysisy"
+title: "Quantitative and Qualitative Analyses of Symmetry Independent C–F⋯F–C Interaction and C-H⋯F–C Hydrogen Bonds in a Biologically Potent Isoquinoline Derivative: Insights from Charge Density Analysis"
 author: "Sakshi"
 affiliation: "Indian Institute of Science Education and Research Mohali"
 meta_title: ""
