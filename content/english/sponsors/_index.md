@@ -3,4 +3,8 @@ title: "Sponsors"
 description: "Sponsorship information and current sponsors of the ICDM10."
 ---
 
-> There are opportunities to sponsor the ICDM10! More details will appear here soon.
+
+
+<p>
+
+{{< absfig src="/images/dectris.png" alt="DECTRIS is the principal sponsor of the ICDM10" width="100%">}}

@@ -8,7 +8,7 @@ summary: Intermolecular interactions offered by halogens are versatile, unpredic
 date: 2025-05-02
 categories: ["Talk"]
 tags: ["H-bonding", "intermolecular interactions", "halogens"]
-draft: true  
+draft: false
 params:
   math: true
 ---
