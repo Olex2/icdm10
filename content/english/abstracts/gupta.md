@@ -7,14 +7,14 @@ meta_title: ""
 description: ""
 date: 2025-02-21
 categories: ["Talk"]
-tags: ["H-bonding", "polymorhism"]
-draft: true
+tags: ["H-bonding", "polymorphism", "ferroelectricity"]
+draft: false
 summary: Polymorphism, i.e., the ability of a molecule to possess diverse spatial arrangements in crystalline form, can lead to the exhibition of distinct properties.
 params:
   math: true
 ---
 
-### Yogita Guptaa, Sanjay Duttaa, Anil Kumara and Parthapratim Munshi<sup>*</sup>
+### Yogita Gupta, Sanjay Dutta, Anil Kumar and Parthapratim Munshi<sup>*</sup>
 
 ##### Multifunctional Molecular Materials Laboratory, Department of Chemistry, School of Natural Sciences, Shiv Nadar Institution of Eminence, Delhi-NCR, Uttar Pradesh-201314, India.
 
@@ -30,14 +30,14 @@ Further, we estimated the energy barrier for the proton hopping  in  both  forms
 
 ### References:
 
-[1] Bernstein, J. Oxoford University Press Inc., New York 2002.
+[1] [Bernstein, J. Oxoford University Press Inc., New York 2002.](https://global.oup.com/academic/product/polymorphism-in-molecular-crystals-9780199655441?cc=gb&lang=en&)
 
-[2] Dutta, S. et al., Chem. Commun., 55 (2019), 9610-9613.
+[2] [Dutta, S. et al., Chem. Commun., 55 (2019), 9610-9613.](https://pubs.rsc.org/en/content/articlelanding/2019/cc/c9cc04434e)
 
-[3] Genoni, A. et al, Chem. Eur. J., 24 (2018), 10881-10905.
+[3] [Genoni, A. et al, Chem. Eur. J., 24 (2018), 10881-10905.](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.201705952)
 
-[4] Horiuchi, S. et al, Nat. Commun., 8 (2017),14426.
+[4] [Horiuchi, S. et al, Nat. Commun., 8 (2017),14426.](https://www.nature.com/articles/ncomms14426)
 
-[5] Dutta, S. et al., ACS Appl. Electron., Mater. 3 (2021), 3633-3640.
+[5] [Dutta, S. et al., ACS Appl. Electron., Mater. 3 (2021), 3633-3640.](https://pubs.acs.org/doi/abs/10.1021/acsaelm.1c00544)
 
-[6] Hansen, N. K. et al., Acta Cryst., A34 (1978), 909-921.
+[6] [Hansen, N. K. et al., Acta Cryst., A34 (1978), 909-921.](https://journals.iucr.org/paper?a15649)

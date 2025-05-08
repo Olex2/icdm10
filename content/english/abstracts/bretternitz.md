@@ -25,4 +25,4 @@ debate, if quantum crystallography could play a pivotal role in the better under
 
 ### References:
 
-[1] J. Breternitz, Dalton Trans., 2025, 54, 5521-5525.
+[1] [J. Breternitz, Dalton Trans., 2025, 54, 5521-5525.](https://pubs.rsc.org/en/content/articlelanding/2025/dt/d5dt00145e)
