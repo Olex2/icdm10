@@ -11,7 +11,7 @@ social:
 
   - name: Bluesky
     icon: fa-brands fa-bluesky
-    link: https://bsky.app/profile/@mgimferrer.bsky.social
+    link: https://bsky.app/profile/mgimferrer.bsky.social
 ---
 
 **Martí Gimferrer** will speak at the ICDM10 in the section
