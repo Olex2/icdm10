@@ -4,7 +4,14 @@ email:
 image: "/images/authors/MG.jpg"
 description: 
 weight: 25  
+social:
+  - name: X
+    icon: fa-brands fa-x-twitter
+    link: https://x.com/mgimferrer
 
+  - name: Bluesky
+    icon: fa-brands fa-bluesky
+    link: https://bsky.app/profile/@mgimferrer.bsky.social
 ---
 
 **Martí Gimferrer** will speak at the ICDM10 in the section
