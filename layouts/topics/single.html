@@ -14,7 +14,6 @@
             </span>
          </div>
 
-
           {{ $image:= .Params.image }}
           {{ if $image }}
             {{ partial "image" (dict "Src" $image "Alt" .Title "Class" "mx-auto" "Size" "200x200") }}

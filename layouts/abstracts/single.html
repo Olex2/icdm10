@@ -2,6 +2,16 @@
   <section class="section pt-7">
     <div class="container">
       <div class="row justify-center">
+          {{/*  <div class="prev-next-link">
+            <span>
+            {{ if .NextInSection }}
+            <span class="o-nav back"><a class="btn btn-small" href="{{.NextInSection.Permalink}}">Previous</a> {{ end }}</span>
+            {{ if .PrevInSection }}
+            <span class="o-nav next"><a class="btn btn-small" href="{{.PrevInSection.Permalink}}">Next</a> {{ end }}</span>
+            </span>
+         </div>  */}}
+
+
         <article class="lg:col-10">
           {{ $image:= .Params.image }}
           {{ if $image }}

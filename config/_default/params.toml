@@ -108,7 +108,7 @@ mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
         enable = true
         [markup.goldmark.extensions.passthrough.delimiters]
           block = [['\[', '\]'], ['$$', '$$']]
-          inline = [['\(', '\)']]
+          inline = [['\(', '\)'], ['@@', '@@']]
 [params]
   math = true
 

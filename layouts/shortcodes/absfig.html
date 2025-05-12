@@ -26,7 +26,7 @@
 {{ if eq $caption "true"}}
 
 <figcaption class="figcaption">
-   <p class="caption">{{.Get "alt" }}
+   <p class="caption">{{.Get "alt" | markdownify }}
    </p>
 </figcaption>
 
