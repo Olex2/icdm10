@@ -6,6 +6,13 @@ image: "/images/authors/FM.jpg"
 description: 
 weight: 70
 
+
+social:
+  - name: Bluesky
+    icon: fa-brands fa-bluesky
+    link: https://bsky.app/profile/flomeu.bsky.social
+
+
 ---
 
 **Florian Meurer** will talk at the ICDM10.

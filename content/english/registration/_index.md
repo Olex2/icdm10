@@ -35,7 +35,7 @@ title: "Registration"
 
 **220 GBP** (with 2 night's accomodation)
 
-**210  GBP** (with one night accomodation)
+**150  GBP** (with one night accomodation)
 
 #### Day Rate
 
