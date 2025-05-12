@@ -6,7 +6,7 @@ meta_title: ""
 description: ""
 date: 2025-02-21
 categories: ["Talk"]
-tags: ["Chemical Bonding"]
+tags: ["Chemical Bonding", "HAR", "non-spherical form factors", "actinides", "metallophilic interaction"]
 draft: false
 summary: In this work, we want to present our advances of quantum crystallography into actinide-actinide bonding at the hands of two recently found Th3 clusters.
 params:
