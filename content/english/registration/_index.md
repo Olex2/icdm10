@@ -9,8 +9,7 @@ title: "Registration"
 
 > Note: The registaration to the conference and the [abstract submission](/abstracts/samples_abstract/) are indepentent processes. There is no hard deadline for the submission of abstracts and you can change your abstract at any time.
 
-{{< button label="Submit Abstract" link="https://forms.gle/7C9k4Fwdsqqf8N3PA" style="solid" >}}
-
+{{< button label="Download Abstract Template" link="https://e.pcloud.link/publink/show?code=XZz8hqZ6P1pIblEoIRPRm8pxnYKBL3MdRsV" style="solid" >}}
 
 
 |The registration includes the following for all participants:|
