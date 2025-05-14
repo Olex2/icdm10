@@ -5,7 +5,7 @@ affiliation: "Institut für Physikalische Chemie, Georg-August Universität Göt
 meta_title: ""
 description: ""
 summary: We  aim  to  include  chemical  bonding  effects  within  the  refinement  techniques  from  structural  biology  by  integrating covalent bond analysis methodologies with contemporary structure refinement techniques.
-date: 2025-05-02  
+date: 2025-05-09  
 categories: ["Talk"]
 tags: ["protein crystallography",  "chemical bonding", "atoms in molecules", "real-space analysis"]
 draft: false

@@ -5,7 +5,7 @@ author: "Yogita Gupta"
 affiliation: "Indian Institute of Science Education and Research Mohali"
 meta_title: ""
 description: ""
-date: 2025-02-21
+date: 2025-05-01
 categories: ["Talk"]
 tags: ["H-bonding", "polymorphism", "ferroelectricity"]
 draft: false

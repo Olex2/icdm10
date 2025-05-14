@@ -4,7 +4,7 @@ author: "Florian Meurer"
 affiliation: "University of Regensburg"
 meta_title: ""
 description: ""
-date: 2025-02-21
+date: 2025-05-13
 categories: ["Talk"]
 tags: ["Chemical Bonding", "HAR", "non-spherical form factors", "actinides", "metallophilic interaction"]
 draft: false

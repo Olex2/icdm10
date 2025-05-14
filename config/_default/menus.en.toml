@@ -7,11 +7,6 @@ url = "authors/"
 weight = 1
 
 [[main]]
-name = "Topics"
-url = "topics/"
-weight = 2
-
-[[main]]
 name = "Abstracts"
 url = "abstracts/"
 weight = 3
@@ -37,10 +32,10 @@ hasChildren = true
 # name = "Contact"
 # url = "contact/"
 
-[[main]]
-parent = "Pages"
-name = "Authors "
-url = "authors/"
+# [[main]]
+# parent = "Pages"
+# name = "Authors "
+# url = "authors/"
 
 
 [[main]]
@@ -62,11 +57,11 @@ url = "authors/organisers/"
 # url = "authors/"
 # weight = 4
 
-[[main]]
-parent = "Pages"
-name = "Abstracts"
-url = "abstracts/"
-weight = 4
+# [[main]]
+# parent = "Pages"
+# name = "Abstracts"
+# url = "abstracts/"
+# weight = 4
 
 [[main]]
 parent = "Pages"

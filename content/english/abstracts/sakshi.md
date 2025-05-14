@@ -5,7 +5,7 @@ affiliation: "Indian Institute of Science Education and Research Mohali"
 meta_title: ""
 description: ""
 summary: Intermolecular interactions offered by halogens are versatile, unpredictable, and mostly stabilizing. Among the halogens, the interactions offered by fluorine deserve special attention
-date: 2025-05-02
+date: 2025-05-13
 categories: ["Talk"]
 tags: ["H-bonding", "intermolecular interactions", "halogens"]
 draft: false
