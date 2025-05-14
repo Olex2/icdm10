@@ -4,7 +4,7 @@ author: "Paulina Rybicka"
 affiliation: "University of Warsaw"
 meta_title: ""
 description: ""
-summary: Recent efforts have focused on extending the MATTS data bank to cover unusual chemical topologies (rare functional groups, complex ring systems) in small molecules. A key component involved machine learning-driven tools to identify topology- and density-based similarities, define new atom types...
+summary: Recent efforts have focused on extending the MATTS data bank to cover unusual chemical topologies in small molecules. A key component involved machine learning-driven tools...
 date: 2025-05-13  
 categories: ["Talk"]
 tags: ["non-spherical scattering factors", "TAAM"]

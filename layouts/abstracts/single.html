@@ -57,8 +57,8 @@
           <div class="row items-start justify-between">
             {{ $tags:= .Params.tags }}
             {{ if $tags }}
-              <div class="lg:col-5 mb-10 flex items-center lg:mb-0">
-                <h5 class="mr-3">{{ i18n "tags" }} :</h5>
+              <div class="lg:col-10 mb-10 flex items-center lg:mb-0">
+                <h5 class="mr-6">{{ i18n "tags" }} :</h5>
                 <ul>
                   {{ range $i,$p:= $tags }}
                     <li class="inline-block">
@@ -85,11 +85,13 @@
         </article>
       </div>
 
+      <div class="section pt-2"></div>
+ 
       <!-- Related posts -->
       {{ $related := (where site.RegularPages "Section" "in" site.Params.mainSections) | intersect (where site.RegularPages ".Title" "!=" .Title) | union (site.RegularPages.Related . ) }}
       {{ $related = $related | shuffle | first 3 }}
       {{ with $related }}
-        <div class="section pb-0">
+        <div class="section pt-12">
           <h2 class="h3 mb-12">{{ i18n "related_posts" }}</h2>
           <div class="row">
             {{ range . }}
