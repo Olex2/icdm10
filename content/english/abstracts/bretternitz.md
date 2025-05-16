@@ -4,6 +4,7 @@ author: "Joachim Bretternitz"
 affiliation: "FH Münster University of Applied Sciences"
 meta_title: ""
 description: ""
+image: "/images/authors/JB.jpg"
 date: 2025-05-02
 categories: ["Talk"]
 tags: ["Chemical Bonding"]

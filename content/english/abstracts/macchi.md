@@ -6,6 +6,7 @@ meta_title: ""
 description: ""
 date: 2025-05-16
 categories: ["Talk"]
+image: "/images/authors/PM.jpg"
 tags: ["Quantum Crystallography"]
 draft: false
 

@@ -7,6 +7,7 @@ description: ""
 summary: Recent efforts have focused on extending the MATTS data bank to cover unusual chemical topologies in small molecules. A key component involved machine learning-driven tools...
 date: 2025-05-13  
 categories: ["Talk"]
+image: "/images/authors/PR.jpg"
 tags: ["non-spherical scattering factors", "TAAM"]
 draft: false
 params:
