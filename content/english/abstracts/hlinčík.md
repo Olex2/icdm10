@@ -5,10 +5,10 @@ affiliation: "Slovak University of Technology in Bratislava"
 meta_title: ""
 description: ""
 date: 2025-05-16
-categories: ["Talk"]
-tags: ["Chemical Bonding", "QTAIM"]
+categories: ["Flash-Talk"]
+tags: ["Chemical Bonding", "metal-metal interaction", "DFT"]
 draft: false
-summary: The metal-metal interaction fascinated scientist for many years. In this study, the CrI-CrI bond of complex **S**  was studied by both single- and multi-determinant approaches.
+summary: The metal-metal interaction fascinated scientist for many years. In this study, the Cr(I)-Cr(I) bond of complex **S**  was studied by both single- and multi-determinant approaches.
 params:
   math: true
 ---
@@ -22,9 +22,7 @@ e-mail: andrej.hlincik@stuba.sk
 {{< absfig src="/images/abstracts/hlinčík.png" alt="Structure of complex **S** derivated from SIYNAQ (CCDC code: 681728)" width="35%">}}
 
 
-The metal-metal interaction fascinated scientist for many years. In this study, the CrI-CrI bond of complex **S** (Figure 1, using the SIYNA CCDC code: 681728) [1] was studied by both single- and multi-determinant approaches.
-
-
+The metal-metal interaction fascinated scientist for many years. In this study, the Cr(I)-Cr(I) bond of complex **S** [1] was studied by both single- and multi-determinant approaches.
 
 The pure BLYP and hybrid B3LYP (with/without D3 correction), as well as the ωB97X-D and M06-2X DFT functionals were tested against the multideterminant CASSCF/NEVPT2 approach. Several parameters considered showcase many common features with the pure BLYP calculation than one would expect. To further analyse the formal bond order, the Quantum theory of atoms in molecules was used [2].
 
