@@ -5,7 +5,7 @@ affiliation: "Universidad Nacional Autónoma de México"
 meta_title: ""
 description: ""
 date: 2025-05-16
-categories: ["Talk"]
+categories: ["Flash-Talk"]
 image: "/images/abstracts/hernandes.png"
 tags: ["Chemical Bonding", "QTAIM"]
 draft: false

@@ -4,7 +4,7 @@ author: "Christian Jelsch"
 affiliation: "Lorraine University"
 meta_title: ""
 description: ""
-summary: Structure-based methods including docking and scoring of ligands aim to select the best potential hits for in vitro assays by ranking them according to predicted binding affinities. Virtual screening is based on docking programs providing several poses of the ligand within a binding site and a score attributed to each pose. Accurate prediction of the correct binding pose remains a major scientific challenge for current scoring functions in order to retrieve the true ligands.
+summary: Structure-based methods including docking and scoring of ligands aim to select the best potential hits for in vitro assays by ranking them according to predicted binding affinities. Virtual screening is based on docking programs providing several poses of the ligand within a binding site and a score attributed to each pose.
 date: 2025-05-13  
 categories: ["Talk"]
 image: "/images/authors/CJ.jpg"

@@ -1,5 +1,5 @@
 ---
-title: The agreement between DFT and CASSCF of a CrI-CrI study
+title: The agreement between DFT and CASSCF of a Cr(I)-Cr(I) study
 author: Andrej Hlinčík
 affiliation: "Slovak University of Technology in Bratislava"
 meta_title: ""

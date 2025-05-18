@@ -2,7 +2,7 @@
 title: Hans-Georg Stammler
 image: "/images/authors/HGS.jpg"
 description: 
-weight: 48
+weight: 80
 
 ---
 

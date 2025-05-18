@@ -1,11 +1,11 @@
 ---
 title: "Quantum Crystallographic Investigation of Two-Electron Multicentre Bonds in Radical Systems"
-author: "Valentina	Milašinović"
+author: "Valentina Milašinović"
 affiliation: "Ruđer Bošković Institute"
 meta_title: ""
 description: ""
 summary: We present a systematic quantum crystallographic investigation of various 2e/mc-bonded radical systems, ranging from discrete dimers to 2D arrays. The simplest systems studied include TCNE radical anion dimers, while more complex systems feature 2D arrays of TCNQ radical anions with partial charges of −1/2.
-date: 2025-05-13  
+date: 2025-05-16  
 categories: ["Flash-Talk"]
 image: "/images/authors/VM.jpg"
 tags: ["chemical bonding", "multicentre bond", "radicals"]
