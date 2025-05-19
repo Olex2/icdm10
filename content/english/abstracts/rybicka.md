@@ -8,15 +8,15 @@ summary: Recent efforts have focused on extending the MATTS data bank to cover u
 date: 2025-05-13  
 categories: ["Talk"]
 image: "/images/authors/PR.jpg"
-tags: ["non-spherical scattering factors", "TAAM"]
+tags: ["electron density", "aspherical", "TAAM", "Multipole Model", "MATTS databank"]
 draft: false
 params:
   math: true
 ---
 
-#### Paulina Maria Rybicka<sup>a</sup>, Vladislav Ignat’ev<sup>a</sup>, Clement Grandgirard<sup>b</sup>, Michał Leszek Chodkiewicz<sup>b</sup>, Marta Kulik<sup>a</sup>, Paulina Maria Dominiaka<sup>a</a>
+#### Paulina Maria Rybicka<sup>a</sup>, Vladislav Ignat’ev<sup>a</sup>, Clement Grandgirard<sup>b</sup>, Michał Leszek Chodkiewicz<sup>a</sup>, Marta Kulik<sup>a</sup>, Paulina Maria Dominiak<sup>a</a>
 
-##### <sup>a</sup>University of Warsaw, Faculty of Chemistry, Biological and Chemical Research Centre, ul. Żwirki I Wigury 101, 02-089 Warsaw, Poland.; <sup>cb</sup>CESI Graduate School of Engineering, 6 Rue Bois du Chêne le Loup, 54500, Vandœuvre-lès-Nancy, France
+##### <sup>a</sup>University of Warsaw, Faculty of Chemistry, Biological and Chemical Research Centre, ul. Żwirki I Wigury 101, 02-089 Warsaw, Poland.; <sup>b</sup>CESI Graduate School of Engineering, 6 Rue Bois du Chêne le Loup, 54500, Vandœuvre-lès-Nancy, France
 
 ##### e-mail: p.rybicka@uw.edu.pl
 Accurate electron density modelling is essential for obtaining the three-dimensional structure of molecules, understanding chemical bonding and interactions, and calculating electron density properties. The electron density description is greatly enhanced by the use of models that implement the aspherical scattering factors and data banks of transferable electron density parameters, which in our work are the Multipole Model [1] and the MATTS data bank [2,3].
@@ -31,10 +31,10 @@ This research was funded by National Science Centre, Poland UMO-2020/39/I/ST4/02
 
 ### References:
 
-[1] Hansen, N.K. et al. (1978). Acta Cryst. A 34, 909-921.
+[1] Hansen, N.K. et al. (1978). *Acta Cryst*. **A34**, 909-921.
 
-[2] Jha, K.K. et al. (2022). J. Chem. Inf. Model. 62, 3752-3765.
+[2] Jha, K.K. et al. (2022). *J. Chem. Inf. Model*. **62**, 3752-3765.
 
-[3] Rybicka, P.M. et al. (2022). J. Chem. Inf. Model. 62, 3766-3783.
+[3] Rybicka, P.M. et al. (2022). *J. Chem. Inf. Model. **62**, 3766-3783.
 
-[4] Ignat’ev, V.M. et al. (2024). J. Appl. Cryst. 57, 1884-1895.
+[4] Ignat’ev, V.M. et al. (2024). *J. Appl. Cryst*. **57**, 1884-1895.
