@@ -26,7 +26,6 @@ Therefore, a set of QTAIM calculations were conducted to shed light on the natur
 
 {{< absfig src="/images/abstracts/hernandes.png" alt="From top to bottom, contour plots of the Laplacian of the electron density are shown for the compounds: tetramethyl-[5]cumulene and tetramethyl-[6]cumulene, respectively." width="100%">}}
 
-
 Figure 1 From top to bottom, contour plots of the Laplacian of the electron density are shown for
 the compounds: tetramethyl-[5]cumulene and tetramethyl-[6]cumulene, respectively.
 

@@ -8,7 +8,7 @@ summary: An important, but often difficult to evaluate, aspect of small molecule
 date: 2025-05-16  
 categories: ["Talk"]
 image: "/images/abstracts/horner.png"
-tags: ["bond distances", "small-molecule"]
+tags: ["bond distances", "chemical bonding", "small-molecule"]
 draft: false
 params:
   math: true
@@ -23,7 +23,7 @@ An important, but often difficult to evaluate, aspect of small molecule crystall
 
 For more complicated analysis, such as dynamic crystallography or the crystal sponge technique, this understanding is key as the structures are often complex and may require a great number of restraints and constraints to obtain a result. The implementation of structure grading systems that can account for the refinement process, alongside the use of conventional quality metrics, would enable appropriate evaluation and verification of results which arise from these more complex experiments.
 
-{{< absfig src="/images/abstracts/horner.png" alt="The output from a prototype grading tool that exists as a plugin within Olex2 1.5-alpha which evaluates the likelihood that a bond is ‘appropriate’ based on bonding data acquired from existing structural databases." width="70%">}}
+{{< absfig src="/images/abstracts/horner.png" alt="The output from a prototype grading tool that exists as a plugin within Olex2 1.5-alpha which evaluates the likelihood that a bond is ‘appropriate’ based on bonding data acquired from existing structural databases." width="50%">}}
 
 A secondary issue is that the number of structures which are published each year are ever increasing[1] and with the advent of AI and Machine Learning in crystallography and the generation of predictive crystal structures[2], it is imperative that we have tools which can aid analysts when refining crystal structures but also work as a *CheckCIF* style approach to evaluate and verify a structure before it is published.
 
