@@ -29,12 +29,18 @@ PTB[2] is a method developed by Grimme et al. to reproduce the density matrix P 
 
 ### References:
 
-[1] Jelsch, Miteva, Guillot (2023) European Patent EP004195210A1.
+[1] M. Elstner, G. Seifert, Philos. Trans. *R. Soc. Math. Phys. Eng. Sci.* 2014, **372**, 20120483.
 
-[2] Williams … Jhoti. 2003, *Nature*,  **424**, 464-468.
+[2] S. Grimme, M. Müller, A. Hansen, J. Chem. Phys. 2023, **158**, 124111.
 
-[3] Domagala, … Guillot, Jelsch. 2012. *Acta Cryst*. **A68**,337-351.
+[3] M. Müller, A. Hansen, S. Grimme, *J. Chem. Phys*. 2023, **158**, 014103.
 
-[4] Vukovic, … Guillot, Jelsch. 2021. *Acta Cryst*. **D77**, 1292-1304.
+[4] F. L. Hirshfeld, *Isr. J. Chem*. 1977, **16**, 198–201.
 
-[5] Sparrow … DiStasio. 2021. *J. Chemical Physics*, **155(18)**, 184303.
+[5] D. Jayatilaka, B. Dittrich, *Acta Cryst A* 2008, **A64**, 383–393.
+
+[6] S. C. Capelli, H.-B. Bürgi, et.al, *IUCrJ* 2014, **1**, 361–379.
+
+[7] F. Kleemiss, O. V. Dolomanov, et.al., *Chem. Sci.* 2021, **12**, 1675–1692.
+
+[8] O. V. Dolomanov, L. J. Bourhis, R. J. Gildea, et.al., *J. Appl. Cryst*. 2009, 42, 339–341.

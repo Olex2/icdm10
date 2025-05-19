@@ -7,7 +7,7 @@ description: ""
 date: 2025-05-16
 categories: ["Talk"]
 image: "/images/authors/PM.jpg"
-tags: ["Quantum Crystallography"]
+tags: ["quantum mechanics", "crystallography", "x-ray diffraction", "photons", "electrons"]
 draft: false
 
 summary: The purpose of this introductory talk is to find answers to the title, by provoking the audience and the speakers with some fundamental questions of what is the inner  connection between crystals and quantum mechanics? what is a quantum crystal?
