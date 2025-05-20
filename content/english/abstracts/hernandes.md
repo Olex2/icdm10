@@ -1,5 +1,5 @@
 ---
-title: "Similarities and differences in cumulated and conjugated systems"
+title: "Similarities and Differences in the Electron Density of Cumulated and Conjugated Systems"
 author: "Julio Hernández"
 affiliation: "Universidad Nacional Autónoma de México"
 meta_title: ""
@@ -7,7 +7,7 @@ description: ""
 date: 2025-05-16
 categories: ["Flash-Talk"]
 image: "/images/abstracts/hernandes.png"
-tags: ["Chemical Bonding", "QTAIM"]
+tags: ["[n]cumulenes", "electron density", "cumulenic chain", "delocalization index", "ellipticity"]
 draft: false
 summary: QTAIM calculations were conducted to shed light on the nature of bonds in even and odd cumulated systems, with n = 3, 4, 5 and 6, functionalized with alkyls, aryls and  N-heterocyclic  carbenes  (NHCs).
 params:
