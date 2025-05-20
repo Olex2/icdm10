@@ -14,11 +14,9 @@ params:
   math: true
 ---
 
-#### Ashwin Chari<sup>a</sup>,\*, Elham Paknia<sup>a</sup>, Alexander Mehr<sup>a</sup>, Emma Newby<sup>a</sup>, Uma L. Dakshinamoorthy<sup>a</sup>, Claus Flensburg<sup>b</sup>, Clemens Vonrhein<sup>b</sup>, Rasmus Fogh<sup>b</sup>, Peter Keller<sup>b</sup>, Thomas R. Schneider<sup>c</sup>, Clemens Schulze-Briese<sup>d</sup>, Gleb Bourenkov<sup>c</sup>, Gérard Bricogne<sup>b</sup>;
+#### Ashwin Chari<sup>a</sup> ,\*, Elham Paknia<sup>a</sup>, Alexander Mehr<sup>a</sup>, Emma Newby<sup>a</sup>, Uma L. Dakshinamoorthy<sup>a</sup>, Claus Flensburg<sup>b</sup>, Clemens Vonrhein<sup>b</sup>, Rasmus Fogh<sup>b</sup>, Peter Keller<sup>b</sup>, Thomas R. Schneider<sup>c</sup>, Clemens Schulze-Briese<sup>d</sup>, Gleb Bourenkov<sup>c</sup>, Gérard Bricogne<sup>b</sup>;
 
-##### <sup>a</sup>Research Group for Structural Biochemistry and Mechanisms, Max Planck Institute for Biophysical Chemistry, Am Fassberg 11, D-37077 Göttingen, Germany; <sup>b</sup>Global Phasing Limited, Sheraton House, Castle Park, Cambridge CB3 0AX, UK; <sup>c</sup>EMBL Hamburg Outstation c/o DESY, European Molecular Biology Laboratory, Notkestrasse 85, 22607 Hamburg, Germany;
-
-##### <sup>d</sup>DECTRIS Ltd. Täfernweg 1, 5405 Baden-Dättwil, Switzerland
+##### {{< sub "a" >}}Research Group for Structural Biochemistry and Mechanisms, Max Planck Institute for Biophysical Chemistry, Am Fassberg 11, D-37077 Göttingen, Germany; {{< sub "b" >}}Global Phasing Limited, Sheraton House, Castle Park, Cambridge CB3 0AX, UK; {{< sub "c" >}}EMBL Hamburg Outstation c/o DESY, European Molecular Biology Laboratory, Notkestrasse 85, 22607 Hamburg, Germany; {{< sub "d" >}}DECTRIS Ltd. Täfernweg 1, 5405 Baden-Dättwil, Switzerland
 
 ##### e-mail: ashwin.chari@mpinat.mpg.de
 
