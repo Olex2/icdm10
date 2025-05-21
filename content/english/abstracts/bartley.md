@@ -1,12 +1,12 @@
 ---
-title: "Chemical Bonding - Everything a Chemist Wants to Know!?"
+title: "Development of a Reference Database for Chemical Bonding Analysis"
 author: "Francisca Bartley"
 affiliation: "RWTH Aachen"
 meta_title: ""
 description: ""
 image: "/images/abstracts/bartley.png"
 date: 2025-05-02
-categories: ["Talk"]
+categories: ["Flash-Talk"]
 tags: ["chemical bonding", "QTAIM", "database"]
 draft: false
 summary: The different concepts of chemical bonding are not only relevant for molecular chemistry, but also for us materials chemists dealing with extended solids.
