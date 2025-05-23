@@ -25,7 +25,7 @@ Metal-metal bonding plays a central role in explaining the structure and reactiv
 The deformation density (Figure 1c) as well as the topological analysis of the total electron density (Figure 1b and d) based on HAR, reveal a 3c2e and 3c1e Th--Th--Th interaction with distinct bond paths and a negative Laplacian area in the
 middle of the Th<sub>3</sub> ring.
 
-{{< absfig src="/images/abstracts/meurer.jpg" alt="Structure (a) and evaluation of the [Th<sub>3</sub>Cl<sub>6</sub>]<sup>3--</sup> dianion (left) and the [Th<sub>3</sub>Cl<sub>6</sub>]<sup>--</sup> monoanion (right) concerning the Laplacian of the total electron density (b), the deformation density (c), and the electron localizability index (ELI-D) for each cluster, respectively." width="100%">}}
+{{< absfig src="/images/abstracts/meurer.jpg" alt="Structure (a) and evaluation of the [Th<sub>3</sub>Cl<sub>6</sub>]<sup>2--</sup> dianion (left) and the [Th<sub>3</sub>Cl<sub>6</sub>]<sup>--</sup> monoanion (right) concerning the Laplacian of the total electron density (b), the deformation density (c), and the electron localizability index (ELI-D) for each cluster, respectively." width="100%">}}
 
 To compare the results obtained from the HAR geometry DFT calculation with the experiment, beyond the strong artifacts common for heavy element structures, we employed difference residual density maps.
 

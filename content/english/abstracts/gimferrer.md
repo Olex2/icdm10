@@ -1,6 +1,6 @@
 ---
 title: "The Segregated Atom Model for the refinement of high-resolution diffraction experiments"
-author: "Marti Gimferrer"
+author: "Martí Gimferrer"
 affiliation: "Institut für Physikalische Chemie, Georg-August Universität Göttingen, Tammannstraße 6, 37077 Göttingen, Germany"
 meta_title: ""
 description: ""
