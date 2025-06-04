@@ -6,4 +6,6 @@ description: "Support for Students and early career scientists"
 
 <p>
 
-{{< absfig src="/images/dectris.png" alt="DECTRIS is the principal sponsor of the ICDM10" width="100%">}}
+{{< absfig src="/images/dectris.png" width="100%">}}
+
+{{< absfig src="/images/rigaku.png" width="100%">}}

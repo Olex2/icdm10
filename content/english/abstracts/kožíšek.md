@@ -34,7 +34,10 @@ Chemical intuition plays an important role. In coordination compounds of Cu(II) 
 
 ### References:
 
-[1] Januszewski, J. A., & Tykwinski, R. R. (2014). Synthesis and properties of long [n] cumulenes (n≥ 5). *Chemical Society Reviews*, **43(9)**, 3184-3203.
+[1] Meindl, K. &amp; Henn, J. (2008). *Acta Cryst.* **A64**, 404–418. 
 
-[3] Barquera‐Lozada, J. E. (2020). How to bend a cumulene. *Chemistry–A European Journal*, **26(20)**, 4633-4639.
+[2] Herich, P. et al., (2018). *Acta Cryst.* **B74**, 681–692.
 
+[3] Varga, R. et al., (2024). In preparation.
+
+[4] Vénosová, B. et al., (2020). *Acta Cryst.* **B76**, 450–468.
