@@ -7,7 +7,7 @@ weight: 67
 
 ---
 
-**Piero Macchi** will introduce the section
+{{% introduce_session %}}
 
 [What is Quantum Crystallography](/topics/01_what-is-quantum-crystallography)
 
