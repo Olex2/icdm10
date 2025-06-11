@@ -6,13 +6,17 @@ meta_title: ""
 description: ""
 summary: We present a combined experimental and density functional theory study that characterizes the charge and spin density in Ni*X*<sub>2</sub>(3,5-lutidine)4 (*X* = Cl, Br and I). In this material, magnetic exchange interactions occur via Ni<sup>2+</sup>–halide … halide–Ni<sup>2+</sup> pathways, forming one-dimensional chains.
 date: 2025-05-16  
-categories: ["Talk"]
+categories: ["Talk", "Chemical Bonding"]
 image: "/images/abstracts/johnson.jpg"
 tags: ["electron density", "spin density", "halides"]
 draft: false
+
 params:
   math: true
+  tt: 2025-07-13T13:18:50Z
+
 ---
+
 #### Rebecca Scatena<sup>a</sup>, Zachary E. Manson <sup>b</sup>, Jamie L. Manson <sup>b</sup>, David R. Allan <sup>a</sup>, Paul A. Goddard <sup>c</sup> and Roger D. Johnson <sup>d,e</sup>
 
 

@@ -4,14 +4,15 @@ author: "Loes Kroon-Batenburg"
 affiliation: "Utrecht University"
 meta_title: ""
 description: ""
-image: "/images/authors/LKB.jpg"
+image: "/images/blank.png"
 date: 2025-05-02
-categories: ["Talk"]
+categories: ["Talk", "Data Quality"]
 tags: ["data reduction", "intensity data"]
 draft: false
 summary: Data collection on single crystals starts with recording raw diffraction images (data frames). These 'raw' data frames have usually already been corrected for spatial distortions and non-uniformities of the detector response.
 params:
   math: true
+  tt: 2025-07-13T14:18:50Z
 ---
 
 #### Loes Kroon-Batenburg

@@ -6,7 +6,7 @@ date: 2025-01-31T05:00:00Z
 image: "/images/gallery/abstract.jpg"
 author: "Horst Puschmann"
 affiliation: "Durham University"
-draft: false
+draft: true
 weight: 1
 params:
   math: true

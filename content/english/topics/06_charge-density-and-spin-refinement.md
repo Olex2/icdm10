@@ -7,7 +7,7 @@ weight: 200
 description: "Charge Density and Spin Refinement"
 # save as draft
 image: "/images/gallery/charge-density-refinement.jpeg"
-author: "Nobody Assigned Yet"
+# author: "Nobody Assigned Yet"
 draft: false
 ---
 

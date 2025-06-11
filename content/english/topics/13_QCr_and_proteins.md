@@ -8,7 +8,7 @@ description: "Quantum Crystallography and Protein Structures"
 # save as draft
 draft: false
 image: "/images/gallery/qcr_protein.jpeg"
-author: "Nobody Assigned Yet"
+# author: "Nobody Assigned Yet"
 
 ---
 

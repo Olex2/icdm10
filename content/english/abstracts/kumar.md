@@ -12,6 +12,7 @@ draft: false
 summary: I will give a short introduction into techniques for chemical-bonding analysis from single-crystal diffraction data (multipole modeling, X-ray wavefunction refinement) and into quantum-chemical methods for deriving bonding descriptors
 params:
   math: true
+  tt: 2025-07-13T13:18:50Z
 ---
 
 ### Anil Kumar <sup>a</sup>\* Ashwin Suresh <sup>b</sup>, Arianna Lanza<sup>c</sup>, Jakub Wojciechowski<sup>d</sup>, Lukas Palatinus <sup>b</sup>\* & Paulina Maria Dominiak <sup>a</sup>\*

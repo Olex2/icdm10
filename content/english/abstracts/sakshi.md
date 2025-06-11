@@ -12,6 +12,7 @@ tags: ["H-bonding", "intermolecular interactions", "halogens"]
 draft: false
 params:
   math: true
+  tt: 2025-07-13T13:18:50Z
 ---
 
 #### Sakshi<sup>a</sup>, Yogita Gupta<sup>b</sup>, Angshuman Roy Choudhury<sup>a</sup>,\* and Parthapratim Munshi<sup>b</sup>\*

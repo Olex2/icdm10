@@ -4,12 +4,13 @@ author: "Aleksandra Zwolenik"
 affiliation: "University of Warsaw"
 summary: The determination of the actual charge distribution around atoms remains a central challenge in modern quantum crystallography.
 date: 2025-05-26
-categories: ["Talk"]
+categories: ["Talk", "Chemistry"]
 image: "/images/abstracts/zwolenik.png"
 tags: ["metal complexes", "oxidation state", "HAR"]
 draft: false
 params:
   math: true
+  tt: 2025-07-13T13:18:50Z
 ---
 
 #### Aleksandra Zwolenik<sup>a</sup>, Florian Meurer<sup>b</sup>, Michael Bodensteiner<sup>b</sup>, Anna Makal<sup>a</sup>

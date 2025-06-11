@@ -4,14 +4,16 @@ author: "Ashwin Chari"
 affiliation: "Max Planck Institute for Multidisciplinary Sciences"
 meta_title: ""
 description: ""
-image: "/images/authors/CA.jpg"
+image: "/images/blank.png"
 date: 2025-03-21
-categories: ["Talk"]
+categories: ["Talk", "Macromolecular Crystallography"]
 tags: ["macromolecular", "high-accuracy"]
 summary: I introduce a novel concept of high-energy data acquisition with a highly optimized setup and workflow for protein crystallography. I will present how the implementation of these procedures allows us to routinely collect single-crystal datasets at atomic and sub-Å resolution.
 draft: false
+
 params:
-  math: true
+  tt: 2025-07-13T13:18:50Z
+
 ---
 
 #### Ashwin Chari<sup>a</sup> ,\*, Elham Paknia<sup>a</sup>, Alexander Mehr<sup>a</sup>, Emma Newby<sup>a</sup>, Uma L. Dakshinamoorthy<sup>a</sup>, Claus Flensburg<sup>b</sup>, Clemens Vonrhein<sup>b</sup>, Rasmus Fogh<sup>b</sup>, Peter Keller<sup>b</sup>, Thomas R. Schneider<sup>c</sup>, Clemens Schulze-Briese<sup>d</sup>, Gleb Bourenkov<sup>c</sup>, Gérard Bricogne<sup>b</sup>;

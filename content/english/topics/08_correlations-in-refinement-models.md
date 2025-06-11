@@ -7,7 +7,7 @@ weight: 8
 description: "Correlations in Refinement Models"
 # save as draft
 image: "/images/gallery/correlations.jpeg"
-author: "Regine Herbst-Irmer"
+# author: "Regine Herbst-Irmer"
 draft: false
 ---
 

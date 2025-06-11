@@ -6,12 +6,15 @@ meta_title: ""
 description: ""
 summary: The computational cost associated with simulations of large ... presents a significant challenge to the adoption of quantum crystallographic refinement as a standard refinement tool. A possibility to improve computational time, without sacrificing much accuracy is the use of semiempirical methods, which use empirical parameters..
 date: 2025-05-16  
-categories: ["Talk"]
-image: "/images/authors/BEebel.png"
+categories: ["Talk",  "Methods"]
+image: "/images/blank.png"
 tags: ["NOSPHERA2", "HAR", "PTB"]
 draft: false
+
 params:
   math: true
+  tt: 2025-07-13T13:18:50Z
+
 ---
 #### Ben Ebel, Daniel Brüx, Florian Kleemiss
 

@@ -6,12 +6,13 @@ meta_title: ""
 description: ""
 image: "/images/abstracts/bartley.png"
 date: 2025-05-02
-categories: ["Flash-Talk"]
+categories: ["Flash-Talk",  "Methods"]
 tags: ["chemical bonding", "QTAIM", "database"]
 draft: false
 summary: The different concepts of chemical bonding are not only relevant for molecular chemistry, but also for us materials chemists dealing with extended solids.
 params:
   math: true
+  tt: 2025-07-13T13:18:50Z
 ---
 
 #### Francisca Bartley, Florian Kleemiss

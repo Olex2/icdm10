@@ -7,7 +7,7 @@ weight: 10
 description: "Atomic Displacement: The big accumulator"
 # save as draft
 image: "/images/gallery/accumulator_1.jpeg"
-author: "Anna Hoser"
+# author: "Anna Hoser"
 
 draft: false
 ---

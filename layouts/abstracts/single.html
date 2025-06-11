@@ -1,4 +1,6 @@
 {{ define "main" }}
+{{ $tt := .Params.tt | default .Date }}
+
   <section class="section pt-7">
     <div class="container">
       <div class="row justify-center">
@@ -37,19 +39,49 @@
                 <i class="fa-regular fa-folder mr-2"></i>
                 {{ range $i,$p:= $categories }}
                   <a
-                    href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}/"
+                    href="{{ `categories/` | relLangURL }}{{ . | urlize }}/"
                     class=""
-                    >{{ . | humanize }}{{ if ne $i (sub (len $categories) 1) }}
+                    >{{ . }}{{ if ne $i (sub (len $categories) 1) }}
                       {{ "," }}
                     {{ end }}
                   </a>
                 {{ end }}
               </li>
             {{ end }}
+
+            {{ if eq $tt "2025-07-13T13:18:50Z" }}
+
+            <li class="mr-4 inline-block">
+              <i class="fa-regular fa-calendar mr-2"></i>
+              {{ "TBC" }}
+            </li>
+
+            {{ else }}
+
+            <li class="mr-4 inline-block">
+              <i class="fa-regular fa-calendar mr-2"></i>
+              {{ time.Format ":date_full" $tt }}
+            </li>
+
+            {{ end }}
+
+            {{ if in $tt "13:18:50Z" }}
+
             <li class="mr-4 inline-block">
               <i class="fa-regular fa-clock mr-2"></i>
-              {{ time.Format ":date_long" .PublishDate }}
+              {{ "TBC" }}
             </li>
+
+            {{ else }}
+
+            <li class="mr-4 inline-block">
+              <i class="fa-regular fa-clock mr-2"></i>
+              {{ time.Format ":time_short" $tt }}
+            </li>
+
+
+            {{ end }}
+
           </ul>
           <div class="content mb-10">
             {{ .Content }}

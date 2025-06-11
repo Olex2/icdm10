@@ -7,12 +7,14 @@ meta_title: ""
 description: ""
 image: "/images/abstracts/gupta.jpg"
 date: 2025-05-01
-categories: ["Talk"]
+categories: ["Talk", "Chemistry"]
 tags: ["H-bonding", "polymorphism", "ferroelectricity"]
 draft: false
 summary: Polymorphism, i.e., the ability of a molecule to possess diverse spatial arrangements in crystalline form, can lead to the exhibition of distinct properties.
 params:
   math: true
+  tt: 2025-07-13T13:18:50Z
+
 ---
 
 ### Yogita Gupta, Sanjay Dutta, Anil Kumar and Parthapratim Munshi<sup>*</sup>

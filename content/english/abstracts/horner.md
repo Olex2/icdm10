@@ -6,12 +6,14 @@ meta_title: ""
 description: ""
 summary: An important, but often difficult to evaluate, aspect of small molecule crystallographic structure analysis is an understanding of how a refinement has been performed. One of the tools tha can be used is to evaluate the likelihood of a given bond in a structure, and from this calculate the total likelihood of the structure
 date: 2025-05-16  
-categories: ["Talk"]
+categories: ["Talk",  "Methods"]
 image: "/images/abstracts/horner.png"
 tags: ["bond distances", "chemical bonding", "small-molecule"]
 draft: false
 params:
   math: true
+  tt: 2025-07-13T13:18:50Z
+
 ---
 #### Aaron Horner
 

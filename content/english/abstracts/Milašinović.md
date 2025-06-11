@@ -6,12 +6,13 @@ meta_title: ""
 description: ""
 summary: We present a systematic quantum crystallographic investigation of various 2e/mc-bonded radical systems, ranging from discrete dimers to 2D arrays. The simplest systems studied include TCNE radical anion dimers, while more complex systems feature 2D arrays of TCNQ radical anions with partial charges of −1/2.
 date: 2025-05-16  
-categories: ["Flash-Talk"]
-image: "/images/authors/VM.jpg"
+categories: ["Flash-Talk", "Chemistry"]
+image: "/images/blank.png"
 tags: ["chemical bonding", "multicentre bond", "radicals"]
 draft: false
 params:
   math: true
+  tt: 2025-07-13T13:18:50Z
 ---
 
 #### Petra Stanić<sup>a</sup>; Florian Meurer<sup>b</sup>; Michael Bodensteiner<sup>b</sup>; Christoph Hennig<sup>c</sup>; Miha Virant<sup>d</sup>; Matic Lozinšek<sup>d</sup>; Krešimir Molčanov<sup>d</sup>

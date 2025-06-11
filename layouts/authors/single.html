@@ -16,7 +16,49 @@
               src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=128&pg&d=identicon" />
           {{ end }}
           <h1 class="h3 mt-10">{{ .Title }}</h1>
+
+
+
           <div class="content mt-6">
+            {{ $filterByAuthor := where site.RegularPages "Params.author" "==" .Title }}
+              {{ range $filterByAuthor }}
+              Will speak on <br>
+              
+            {{ if eq .Params.tt "2025-07-13T13:18:50Z" }}
+
+            <li class="mr-4 inline-block">
+              <i class="fa-regular fa-calendar mr-2"></i>
+              {{ "TBC" }}
+            </li>
+
+            {{ else }}
+
+            <li class="mr-4 inline-block">
+              <i class="fa-regular fa-calendar mr-2"></i>
+              {{ time.Format ":date_full" .Params.tt }}
+            </li>
+
+            {{ end }}
+
+            {{ if in .Params.tt "13:18:50Z" }}
+
+            <li class="mr-4 inline-block">
+              <i class="fa-regular fa-clock mr-2"></i>
+              {{ "TBC" }}
+            </li>
+
+            {{ else }}
+
+            <li class="mr-4 inline-block">
+              <i class="fa-regular fa-clock mr-2"></i>
+              {{ time.Format ":time_short" .Params.tt }}
+            </li>
+
+
+            {{ end }}
+
+
+            {{ end }}
             {{ .Content }}
           </div>
 
@@ -37,14 +79,15 @@
         </div>
       </div>
 
-      <div class="row pb-16 pt-14">
+      <div class="flex justify-center pb-16 pt-14">
         {{ $filterByAuthor := where site.RegularPages "Params.author" "==" .Title }}
-        {{ range $filterByAuthor }}
-          <div class="md:col-6 lg:col-4 mb-12">
-            {{ partial "components/blog-card" . }}
-          </div>
-        {{ end }}
+          {{ range $filterByAuthor }}
+            <div class="w-full md:w-1/2 lg:w-1/3">
+          {{ partial "components/blog-card" . }}
       </div>
+      {{ end }}
+
+</div>
     </div>
   </section>
 {{ end }}

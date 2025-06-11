@@ -8,7 +8,7 @@ description: "Electron Diffraction and Quantum Crystallography"
 # save as draft
 draft: false
 image: "/images/gallery/ed.jpeg"
-author: "Paulina Dominiak"
+# author: "Paulina Dominiak"
 ---
 
 |Introduced by [Paulina Dominiak](/authors/paulina-dominiak)|

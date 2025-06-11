@@ -6,7 +6,7 @@ weight: 2
 # meta description
 description: "What can QCr bring to routine structures?"
 # save as draft
-author: "Anna Makal"
+# author: "Anna Makal"
 image: "/images/gallery/routine.jpeg"
 draft: false
 ---

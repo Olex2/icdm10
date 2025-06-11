@@ -6,12 +6,15 @@ meta_title: ""
 description: ""
 summary: The Hansen-Coppens Multipole Model partitions the electron density into three components -- core density, spherical valence density and aspherical valence density.
 date: 2025-05-16
-image: "/images/authors/RHI.jpg"
-categories: ["Talk"]
+image: "/images/blank.png"
+categories: ["Talk", "Data Quality"]
 tags: ["multipolar refinement", "anharmonic motion", "correlations"]
 draft: false
+
 params:
   math: true
+  tt: 2025-07-14T13:18:50Z
+
 ---
 
 #### Regine Herbst-Irmer

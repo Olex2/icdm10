@@ -6,14 +6,17 @@ meta_title: ""
 description: ""
 date: 2025-05-16
 categories: ["Talk"]
-image: "/images/authors/PM.jpg"
+image: "/images/blank.png"
 tags: ["quantum mechanics", "crystallography", "x-ray diffraction", "photons", "electrons"]
 draft: false
+weight: 1
+
 
 summary: The purpose of this introductory talk is to find answers to the title, by provoking the audience and the speakers with some fundamental questions of what is the inner  connection between crystals and quantum mechanics? what is a quantum crystal?
 
 params:
   math: true
+  tt: 2025-07-14T10:00:50Z
 ---
 
 #### Piero Macchi

@@ -6,12 +6,13 @@ meta_title: ""
 description: ""
 summary: Recent efforts have focused on extending the MATTS data bank to cover unusual chemical topologies in small molecules. A key component involved machine learning-driven tools...
 date: 2025-05-13  
-categories: ["Talk"]
-image: "/images/authors/PR.jpg"
+categories: ["Talk",  "Methods"]
+image: "/images/blank.png"
 tags: ["electron density", "aspherical", "TAAM", "Multipole Model", "MATTS databank"]
 draft: false
 params:
   math: true
+  tt: 2025-07-13T13:18:50Z
 ---
 
 #### Paulina Maria Rybicka<sup>a</sup>, Vladislav Ignat’ev<sup>a</sup>, Clement Grandgirard<sup>b</sup>, Michał Leszek Chodkiewicz<sup>a</sup>, Marta Kulik<sup>a</sup>, Paulina Maria Dominiak<sup>a</a>

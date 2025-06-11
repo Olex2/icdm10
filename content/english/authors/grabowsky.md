@@ -9,4 +9,3 @@ weight: 30
 
 {{% introduce_session %}}
 
-[Quantum Crystallographic Bonding Analysis](/topics/03_quantum-crystallographic-bonding-analysis)

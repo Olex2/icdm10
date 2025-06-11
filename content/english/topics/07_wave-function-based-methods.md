@@ -8,7 +8,7 @@ description: "Wave-Function based Methods"
 # save as draft
 image: "/images/gallery/hirshfeld.jpeg"
 draft: false
-author: "Alessandro Genoni"
+# author: "Alessandro Genoni"
 ---
 
 |Introduced by [Alessandro Genoni](/authors/alessandro-genoni)|

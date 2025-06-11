@@ -7,7 +7,7 @@ weight: 3
 description: "Quantum Crystallography in Materials Science"
 # save as draft
 image: "/images/gallery/Quantum-Crystallography-in-Materials-Science.jpeg"
-author: "Anna Krawczuk"
+# author: "Anna Krawczuk"
 
 draft: false
 ---

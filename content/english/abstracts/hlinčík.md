@@ -5,13 +5,16 @@ affiliation: "Slovak University of Technology in Bratislava"
 meta_title: ""
 description: ""
 date: 2025-05-16
-categories: ["Flash-Talk"]
+categories: ["Flash-Talk", "Chemistry"]
 image: "/images/abstracts/hlinčík.png"
 tags: ["Chemical Bonding", "metal-metal interaction", "DFT"]
 draft: false
 summary: The metal-metal interaction fascinated scientist for many years. In this study, the Cr(I)-Cr(I) bond of complex **S**  was studied by both single- and multi-determinant approaches.
+
 params:
   math: true
+  tt: 2025-07-13T13:18:50Z
+
 ---
 
 #### Andrej Hlinčík, Lukáš Bučinskýa, Jozef Kožíšek

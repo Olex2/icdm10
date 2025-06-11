@@ -7,7 +7,7 @@ meta_title: ""
 description: "Which techniques are available – what can we learn from them?"
 # save as draft
 draft: false
-author: "Piero Macchi"
+# author: "Piero Macchi"
 image: "/images/gallery/what_isQCr.jpeg"
 
 ---

@@ -8,13 +8,13 @@ description: "Model Building"
 # save as draft
 image: "/images/gallery/model_building.jpeg"
 draft: false
-author: "Niklas Ruth"
+# author: "Niklas Ruth"
 ---
 
 |Introduced by [Paul Niklas Ruth](/authors/niklas-ruth)|
 |:---:|
 |Post-spherical models|
-|Methods development|
+|Method development|
 |Software development|
 |Benchmarks|
 

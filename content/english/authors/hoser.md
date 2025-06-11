@@ -1,5 +1,5 @@
 ---
-title: Anna Hoser
+title: "Anna Hoser"
 email: 
 image: "/images/authors/AH.jpg"
 description: 

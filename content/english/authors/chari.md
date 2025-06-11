@@ -9,6 +9,4 @@ weight: 13
 
 {{% introduce_session %}}
 
-[Quantum Crystallography and Protein Structures](/topics/13_qcr_and_proteins)
-
 

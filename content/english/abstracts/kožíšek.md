@@ -5,13 +5,16 @@ affiliation: "Universidad Nacional Autónoma de México"
 meta_title: ""
 description: ""
 date: 2025-05-16
-categories: ["Talk"]
+categories: ["Talk", "Chemical Bonding"]
 image: "/images/abstracts/kožíšek.png"
 tags: ["experimental electronic structure", "coordination compounds", "quantum crystallography", "error analysis"]
 draft: false
 summary: Thanks to the continuous improvement of single-crystal X-ray diffractometers and data processing software, it is expected that experimental electronic structures are approaching reality. However, we still see certain differences between experimental and theoretical results.
+
 params:
   math: true
+  tt: 2025-07-13T13:18:50Z
+
 ---
 
 #### Jozef Kožíšek, Lukáš Bučinský
