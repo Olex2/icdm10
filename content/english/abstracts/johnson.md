@@ -8,7 +8,7 @@ summary: We present a combined experimental and density functional theory study 
 date: 2025-05-16  
 categories: ["Talk", "Chemical Bonding"]
 image: "/images/abstracts/johnson.jpg"
-tags: ["electron density", "spin density", "halides"]
+tags: ["electron density", "spin density", "halides", "magnetic exchange", "DFT"]
 draft: false
 
 params:

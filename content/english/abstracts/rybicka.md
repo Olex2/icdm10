@@ -8,7 +8,7 @@ summary: Recent efforts have focused on extending the MATTS data bank to cover u
 date: 2025-05-13  
 categories: ["Talk",  "Methods"]
 image: "/images/blank.png"
-tags: ["electron density", "aspherical", "TAAM", "Multipole Model", "MATTS databank"]
+tags: ["electron density", "aspherical", "TAAM", "Multipole Model", "MATTS databank", "machine learning", "macromolecules", "protein dictionary"]
 draft: false
 params:
   math: true

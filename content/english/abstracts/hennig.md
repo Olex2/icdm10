@@ -5,7 +5,7 @@ affiliation: "European Synchrotron Radiation Facility"
 image: "/images/abstracts/hennig.jpg"
 date: 2025-06-11 
 categories: ["Talk", "Methods"]
-tags: ["Synchrotron", "large facilities", "data quality"]
+tags: ["Synchrotron", "large facilities", "data quality", "single crystal diffraction"]
 draft: false
 weight: 2
 summary: "We would like to present the current status of the diffractometer at the Rossendorf Beamline (ROBL, BM20) at ESRF and how we do single crystal diffraction"

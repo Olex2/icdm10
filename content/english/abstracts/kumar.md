@@ -7,7 +7,7 @@ description: ""
 date: 2025-05-16
 categories: ["Talk"]
 image: "/images/abstracts/kumar.png"
-tags: ["3D-ED", "multipole modelling", "charge density"]
+tags: ["3D-ED", "multipole modelling", "charge density", "quantum crystallography", "organic nanocrystals"]
 draft: false
 summary: I will give a short introduction into techniques for chemical-bonding analysis from single-crystal diffraction data (multipole modeling, X-ray wavefunction refinement) and into quantum-chemical methods for deriving bonding descriptors
 params:

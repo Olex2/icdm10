@@ -7,7 +7,7 @@ description: ""
 date: 2025-05-16
 categories: ["Flash-Talk", "Chemistry"]
 image: "/images/abstracts/hernandes.png"
-tags: ["cumulenes", "electron density", "delocalization index", "ellipticity"]
+tags: ["cumulenes", "electron density", "delocalization index", "ellipticity", "QTAIM", "bonding analysis"]
 draft: false
 summary: QTAIM calculations were conducted to shed light on the nature of bonds in even and odd cumulated systems, with n = 3, 4, 5 and 6, functionalized with alkyls, aryls and  N-heterocyclic  carbenes  (NHCs).
 

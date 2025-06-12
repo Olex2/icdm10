@@ -7,7 +7,7 @@ description: ""
 date: 2025-05-16
 categories: ["Flash-Talk", "Chemistry"]
 image: "/images/abstracts/hlinčík.png"
-tags: ["Chemical Bonding", "metal-metal interaction", "DFT"]
+tags: ["Chemical Bonding", "metal-metal interaction", "DFT", "Cr(I)-Cr(I) bond", "QTAIM"]
 draft: false
 summary: The metal-metal interaction fascinated scientist for many years. In this study, the Cr(I)-Cr(I) bond of complex **S**  was studied by both single- and multi-determinant approaches.
 

@@ -7,7 +7,7 @@ description: ""
 date: 2025-05-14
 categories: ["Talk", "Chemical Bonding"]
 image: "/images/blank.png"
-tags: ["chemical bonding", "multipole modelling", "XRW"]
+tags: ["chemical bonding", "multipole modelling", "XRW", "X-ray wavefunction refinement", "bonding descriptors"]
 draft: false
 summary: I will give a short introduction into techniques for chemical-bonding analysis from single-crystal diffraction data (multipole modeling, X-ray wavefunction refinement) and into quantum-chemical methods for deriving bonding descriptors
 params:

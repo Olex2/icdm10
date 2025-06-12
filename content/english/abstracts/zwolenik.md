@@ -6,7 +6,7 @@ summary: The determination of the actual charge distribution around atoms remain
 date: 2025-05-26
 categories: ["Talk", "Chemistry"]
 image: "/images/abstracts/zwolenik.png"
-tags: ["metal complexes", "oxidation state", "HAR"]
+tags: ["metal complexes", "oxidation state", "HAR", "anomalous dispersion refinement", "ADR", "gold(I)", "X-ray diffraction"]
 draft: false
 params:
   math: true

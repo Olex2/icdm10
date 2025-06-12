@@ -8,7 +8,7 @@ summary: Today, the X-ray restrained wavefunction (XRW) method (also known as X-
 date: 2025-05-13
 image: "/images/blank.png"
 categories: ["Talk",  "Methods"]
-tags: ["XRW", "XCW"]
+tags: ["XRW", "XCW", "Quantum Crystallography", "Chemical Bonding", "Charge Density", "X-ray Diffraction"]
 draft: false
 params:
   math: true

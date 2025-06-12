@@ -7,7 +7,7 @@ description: ""
 date: 2025-05-16
 categories: ["Talk"]
 image: "/images/blank.png"
-tags: ["quantum mechanics", "crystallography", "x-ray diffraction", "photons", "electrons"]
+tags: ["quantum mechanics", "crystallography", "x-ray diffraction", "photons", "electrons", "quantum crystals", "quantum materials"]
 draft: false
 weight: 1
 

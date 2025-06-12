@@ -7,7 +7,7 @@ description: ""
 image: "/images/blank.png"
 date: 2025-05-02
 categories: ["Talk", "Chemical Bonding"]
-tags: ["Chemical Bonding"]
+tags: ["Chemical Bonding", "DFT", "Quantum Crystallography", "Materials Chemistry"]
 draft: false
 summary: The different concepts of chemical bonding are not only relevant for molecular chemistry, but also for us materials chemists dealing with extended solids.
 

@@ -7,7 +7,7 @@ description: ""
 image: "/images/blank.png"
 date: 2025-05-02
 categories: ["Talk", "Data Quality"]
-tags: ["data reduction", "intensity data"]
+tags: ["data reduction", "intensity data", "raw diffraction data", "imgCIF", "metadata"]
 draft: false
 summary: Data collection on single crystals starts with recording raw diffraction images (data frames). These 'raw' data frames have usually already been corrected for spatial distortions and non-uniformities of the detector response.
 params:

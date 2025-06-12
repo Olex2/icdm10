@@ -7,7 +7,7 @@ description: ""
 image: "/images/blank.png"
 date: 2025-03-21
 categories: ["Talk", "ADP"]
-tags: ["ADP", "DFT", "NoMoRe"]
+tags: ["ADP", "DFT", "NoMoRe", "normal mode refinement", "thermodynamic properties"]
 summary: "Anisotropic displacement parameters usually do not attract attention and are treated as a dustbin for all experimental errors (there are only few remarkable exceptions). However, when data quality is good enough and we enrich the analysis of thermal motion in crystals with information from periodic DFT calculations"
 draft: false
 

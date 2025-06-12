@@ -7,7 +7,7 @@ description: ""
 date: 2025-05-16
 categories: ["Flash-Talk",  "Methods"]
 image: "/images/abstracts/brüx.png"
-tags: ["Spin State", "Transition Metal Complexes", "HAR", "QTAIM"]
+tags: ["Spin State", "Transition Metal Complexes", "HAR", "QTAIM", "Charge Density", "X-ray Diffraction"]
 draft: false
 summary: The spin states of transition metal complexes have been extensively studied using both theoretical and analytical methods. Here, we demonstrate an alternative method utilising Hirshfeld Atom Refinement...
 

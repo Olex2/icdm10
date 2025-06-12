@@ -8,7 +8,7 @@ summary: One distinctive feature of compressed alkali and alkaline earth element
 date: 2025-05-13
 image: "/images/blank.png"
 categories: ["Talk", "Chemistry"]
-tags: ["Valance Electrons", "Topology", "Alkali Metals"]
+tags: ["Valance Electrons", "Topology", "Alkali Metals", "Alkaline Earth Metals", "Non-Nuclear Maxima", "NNMs", "QTAIM", "Chemical Bonding", "Melting Behaviour"]
 draft: false
 params:
   math: true

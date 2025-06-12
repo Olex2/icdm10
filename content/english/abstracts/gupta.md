@@ -8,7 +8,7 @@ description: ""
 image: "/images/abstracts/gupta.jpg"
 date: 2025-05-01
 categories: ["Talk", "Chemistry"]
-tags: ["H-bonding", "polymorphism", "ferroelectricity"]
+tags: ["H-bonding", "polymorphism", "ferroelectricity", "quantum crystallography", "proton tautomerism"]
 draft: false
 summary: Polymorphism, i.e., the ability of a molecule to possess diverse spatial arrangements in crystalline form, can lead to the exhibition of distinct properties.
 params:

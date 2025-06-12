@@ -8,7 +8,7 @@ summary: The Hansen-Coppens Multipole Model partitions the electron density into
 date: 2025-05-16
 image: "/images/blank.png"
 categories: ["Talk", "Data Quality"]
-tags: ["multipolar refinement", "anharmonic motion", "correlations"]
+tags: ["multipolar refinement", "anharmonic motion", "correlations", "disorder", "TAAM", "INVARIOM"]
 draft: false
 
 params:

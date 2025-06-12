@@ -7,7 +7,7 @@ description: ""
 image: "/images/abstracts/kleemiss.jpg"
 date: 2025-05-21
 categories: ["Talk", "Data Quality"]
-tags: ["data quality", "automation"]
+tags: ["data quality", "automation", "diffractometer", "data collection", "data analysis"]
 draft: false
 summary: In-house diffractometers and synchrotron beamlines provide extremely high-intensity primary beams, with detectors becoming faster, larger, and more widely available. The question arises as to whether automation will lead to a situation where datasets are directly forwarded to repositories, carrying the associated risk of creating “damaged” database entries.
 

@@ -8,7 +8,7 @@ summary: Selected quantum crystallographic tools will be examined for their abil
 date: 2025-05-16  
 categories: ["Talk", "Chemical Bonding"]
 image: "/images/blank.png"
-tags: ["charge density", "quantum crystallography", "structure-property"]
+tags: ["charge density", "quantum crystallography", "structure-property", "functional materials", "materials science"]
 draft: false
 params:
   math: true

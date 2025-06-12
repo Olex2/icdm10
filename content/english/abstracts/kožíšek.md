@@ -7,7 +7,7 @@ description: ""
 date: 2025-05-16
 categories: ["Talk", "Chemical Bonding"]
 image: "/images/abstracts/kožíšek.png"
-tags: ["experimental electronic structure", "coordination compounds", "quantum crystallography", "error analysis"]
+tags: ["experimental electronic structure", "coordination compounds", "quantum crystallography", "error analysis", "QTAIM", "chemical intuition"]
 draft: false
 summary: Thanks to the continuous improvement of single-crystal X-ray diffractometers and data processing software, it is expected that experimental electronic structures are approaching reality. However, we still see certain differences between experimental and theoretical results.
 

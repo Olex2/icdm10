@@ -7,15 +7,15 @@ description: ""
 summary: The computational cost associated with simulations of large ... presents a significant challenge to the adoption of quantum crystallographic refinement as a standard refinement tool. A possibility to improve computational time, without sacrificing much accuracy is the use of semiempirical methods, which use empirical parameters..
 date: 2025-05-16  
 categories: ["Talk",  "Methods"]
-image: "/images/blank.png"
-tags: ["NOSPHERA2", "HAR", "PTB"]
+image: "/images/abstracts/ebel.jpg"
+tags: ["NOSPHERA2", "HAR", "PTB", "Quantum Crystallography", "Density Matrix", "Tight-Binding", "Semiempirical Methods"]
 draft: false
 
 params:
   math: true
   tt: 2025-07-13T13:18:50Z
-
 ---
+
 #### Ben Ebel, Daniel Brüx, Florian Kleemiss
 
 ##### Institute of Inorganic Chemistry, RWTH Aachen University, Landoltweg 1, 52074 Aachen, Germany
@@ -24,7 +24,7 @@ params:
 
 The computational cost associated with simulations of large or electron-rich systems, coupled with the potential for an unlimited number of combinations for the chosen level of theory, presents a significant challenge to the adoption of quantum crystallographic refinement as a standard refinement tool. A possibility to improve computational time, without sacrificing much accuracy is the use of semiempirical methods, which use empirical parameters to approximate the ab-initio approach. One method is the tight-binding (TB) approach[1], which assumes that electrons are tightly bound to the core instead of acting as a free electron gas, an assumption quite suitable for molecular crystals. Energetic contributions of a given chemical system are split into approximate contributions leading to a large decrease in computational steps. Errors from this are then accounted for through empirical parameters introduced in the method.
 
-{{< absfig src="/images/abstracts/ebel.png" alt="Comparison of the different methods for Co110[8] (Level: 0.330 eÅ^-3)." width="100%">}}
+{{< absfig src="/images/abstracts/ebel.jpg" alt="Comparison of the different methods for Co110[8] (Level: 0.330 eÅ^-3)." width="100%">}}
 
 PTB[2] is a method developed by Grimme et al. to reproduce the density matrix P of the high-level range-separated hybrid density functional with an integrated double ξ basis set ωB97X-3c[3]. This matrix can then be partitioned into atomic contributions e.g. using Hirshfeld’s stockholder partition scheme to yield more accurate non-spherical atomic form factors[4–6]. We herein present the implementation of the method into NoSpherA2[7], the non-spherical refinement suite within Olex2[8] and present first results.
 

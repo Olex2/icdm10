@@ -8,7 +8,7 @@ summary: Intermolecular interactions offered by halogens are versatile, unpredic
 date: 2025-05-13
 categories: ["Talk"]
 image: "/images/abstracts/sakshi.png"
-tags: ["H-bonding", "intermolecular interactions", "halogens"]
+tags: ["H-bonding", "intermolecular interactions", "halogens", "fluorine", "charge density analysis", "X-ray diffraction", "molecular docking"]
 draft: false
 params:
   math: true

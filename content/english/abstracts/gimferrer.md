@@ -8,7 +8,7 @@ summary: We  aim  to  include  chemical  bonding  effects  within  the  refineme
 date: 2025-05-09  
 image: "/images/blank.png"
 categories: ["Talk",  "Methods"]
-tags: ["protein crystallography",  "chemical bonding", "atoms in molecules", "real-space analysis"]
+tags: ["protein crystallography",  "chemical bonding", "atoms in molecules", "real-space analysis", "segregated atom model", "quantum crystallography"]
 draft: false
 params:
   math: true

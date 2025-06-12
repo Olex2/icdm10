@@ -8,7 +8,7 @@ summary: We present a systematic quantum crystallographic investigation of vario
 date: 2025-05-16  
 categories: ["Flash-Talk", "Chemistry"]
 image: "/images/blank.png"
-tags: ["chemical bonding", "multicentre bond", "radicals"]
+tags: ["chemical bonding", "multicentre bond", "radicals", "pancake bond", "2e/mc bond", "quantum crystallography", "TCNE", "TCNQ"]
 draft: false
 params:
   math: true

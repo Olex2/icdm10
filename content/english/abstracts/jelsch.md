@@ -8,7 +8,7 @@ summary: Structure-based methods including docking and scoring of ligands aim to
 date: 2025-05-13  
 categories: ["Talk", "Chemical Bonding"]
 image: "/images/blank.png"
-tags: ["intermolecular interactions", "protein-ligand complex"]
+tags: ["intermolecular interactions", "protein-ligand complex", "docking", "scoring function", "electrostatic complementarity"]
 draft: false
 
 params:

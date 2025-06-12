@@ -8,7 +8,7 @@ summary: An important, but often difficult to evaluate, aspect of small molecule
 date: 2025-05-16  
 categories: ["Talk",  "Methods"]
 image: "/images/abstracts/horner.png"
-tags: ["bond distances", "chemical bonding", "small-molecule"]
+tags: ["bond distances", "chemical bonding", "small-molecule", "crystallography", "structure validation"]
 draft: false
 params:
   math: true
