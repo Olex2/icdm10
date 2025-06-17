@@ -3,6 +3,17 @@ title: "Registration"
 ---
 
 
+# In Durham
+
+To get from the station to Collingwood college, you can either walk (~25 mintues) or take a taxi. There are also bus connections -- please ask Google for the best route when you get there.
+
+<iframe class="center_iframe" src="https://www.google.com/maps/d/u/0/embed?mid=17O_hma94fu4THLjl5A1DxI1Pmr_ggho&ehbc=2E312F" width="640" height="480"></iframe>
+
+Durham is a very small town, and the conference will be held at [Collingwood College](https://www.durham.ac.uk/colleges-and-student-experience/colleges/collingwood/), which is located on the outskirts of the city. The college is a 20-minute walk from the city centre, and there are also buses that run frequently.
+
+Getting about by foot is safe and easy, and the city is very walkable -- and the walk along the river offers stunning views of the cathedral.
+
+
 <br>
 
 {{< button label="Register Here" link="https://pay.durham.ac.uk/event-durham/icdm10" style="solid" >}}
@@ -24,7 +35,7 @@ title: "Registration"
 
 **350 GBP** (without accommodation)
 
-#### Registration (24{{< sub "th" >}} May 2025--10{{< sub "th" >}} June 2025)
+#### Registration (24{{< sub "th" >}} May 2025--30{{< sub "th" >}} June 2025)
 
 **600 GBP** (with accommodation)
 
