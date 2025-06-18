@@ -22,7 +22,6 @@
           <div class="content mt-6">
             {{ $filterByAuthor := where site.RegularPages "Params.author" "==" .Title }}
               {{ range $filterByAuthor }}
-              Will speak on <br>
               
             {{ if eq .Params.tt "2025-07-13T13:18:50Z" }}
 

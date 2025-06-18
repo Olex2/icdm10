@@ -6,7 +6,7 @@ meta_title: ""
 description: ""
 image: "/images/abstracts/bartley.png"
 date: 2025-05-02
-categories: ["Flash-Talk",  "Methods"]
+categories: ["Flash-Talk I",  "Methods"]
 tags: ["chemical bonding", "QTAIM", "database", "conformers", "wavefunction analysis"]
 draft: false
 summary: The different concepts of chemical bonding are not only relevant for molecular chemistry, but also for us materials chemists dealing with extended solids.

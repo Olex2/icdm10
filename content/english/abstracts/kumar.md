@@ -5,14 +5,15 @@ affiliation: "University of Warsaw"
 meta_title: ""
 description: ""
 date: 2025-05-16
-categories: ["Talk"]
+categories: ["Session 10"]
 image: "/images/abstracts/kumar.png"
 tags: ["3D-ED", "multipole modelling", "charge density", "quantum crystallography", "organic nanocrystals"]
 draft: false
 summary: I will give a short introduction into techniques for chemical-bonding analysis from single-crystal diffraction data (multipole modeling, X-ray wavefunction refinement) and into quantum-chemical methods for deriving bonding descriptors
+weight: 42
 params:
   math: true
-  tt: 2025-07-13T13:18:50Z
+  tt: 2025-07-17T09:00:50Z
 ---
 
 ### Anil Kumar <sup>a</sup>\* Ashwin Suresh <sup>b</sup>, Arianna Lanza<sup>c</sup>, Jakub Wojciechowski<sup>d</sup>, Lukas Palatinus <sup>b</sup>\* & Paulina Maria Dominiak <sup>a</sup>\*

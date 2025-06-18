@@ -6,13 +6,14 @@ meta_title: ""
 description: ""
 image: "/images/blank.png"
 date: 2025-03-21
-categories: ["Talk", "Neutron"]
+categories: ["Session 4", "Neutron"]
 tags: ["Chemical Crystallography", "Neutron Diffraction", "ANSTO", "OPAL Reactor", "KOALA Diffractometer", "CRYSTALS System"]
 summary: "2025 is the fortieth year of Alison’s career pursuing Chemical Crystallography spanning enormous technological and computational advances - initially using serial detectors, sealed tube generators and magnetic tape carried to a computer centre with forms filled out to read in to the centralised mainframe computers."
 draft: false
-
+weight: 18
 params:
-  tt: 2025-07-13T13:18:50Z
+  math: true
+  tt: 2025-07-14T15:30:50Z
 
 ---
 

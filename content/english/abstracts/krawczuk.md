@@ -6,13 +6,14 @@ meta_title: ""
 description: ""
 summary: Selected quantum crystallographic tools will be examined for their ability to elucidate structure–property correlations in a range of functional materials. Building on recent literature and case studies from ongoing research, particular focus will be placed on how charge density analyses have shed light on magnetic, optical, electronic and other properties.
 date: 2025-05-16  
-categories: ["Talk", "Chemical Bonding"]
+categories: ["Session 6", "Chemical Bonding"]
 image: "/images/blank.png"
 tags: ["charge density", "quantum crystallography", "structure-property", "functional materials", "materials science"]
 draft: false
+weight: 24
 params:
   math: true
-  tt: 2025-07-13T13:18:50Z
+  tt: 2025-07-15T11:00:50Z
 ---
 
 

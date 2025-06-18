@@ -5,7 +5,7 @@ affiliation: RWTH Aachen"
 meta_title: ""
 description: ""
 date: 2025-05-16
-categories: ["Flash-Talk",  "Methods"]
+categories: ["Flash-Talk I",  "Methods"]
 image: "/images/abstracts/brüx.png"
 tags: ["Spin State", "Transition Metal Complexes", "HAR", "QTAIM", "Charge Density", "X-ray Diffraction"]
 draft: false

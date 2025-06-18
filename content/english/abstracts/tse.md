@@ -7,12 +7,13 @@ description: ""
 summary: One distinctive feature of compressed alkali and alkaline earth elementsis the presence of non-nuclear maxima (NNMs)—regions of localized electron density in the interstitial spaces of the structure, often associated with electride behaviour.
 date: 2025-05-13
 image: "/images/blank.png"
-categories: ["Talk", "Chemistry"]
+categories: ["Sesssion 6", "Chemistry"]
 tags: ["Valance Electrons", "Topology", "Alkali Metals", "Alkaline Earth Metals", "Non-Nuclear Maxima", "NNMs", "QTAIM", "Chemical Bonding", "Melting Behaviour"]
 draft: false
+weight: 26
 params:
   math: true
-  tt: 2025-07-13T13:18:50Z
+  tt: 2025-07-15T11:00:50Z
 ---
 
 #### John S. Tse<sup>a,b,c,d</sup> Yuan Liu<sup>b,c,d</sup> Hanyu Liu<sup>b,c,d</sup>

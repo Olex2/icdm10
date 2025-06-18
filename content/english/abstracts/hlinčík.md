@@ -5,7 +5,7 @@ affiliation: "Slovak University of Technology in Bratislava"
 meta_title: ""
 description: ""
 date: 2025-05-16
-categories: ["Flash-Talk", "Chemistry"]
+categories: ["Flash-Talk II", "Chemistry"]
 image: "/images/abstracts/hlinčík.png"
 tags: ["Chemical Bonding", "metal-metal interaction", "DFT", "Cr(I)-Cr(I) bond", "QTAIM"]
 draft: false

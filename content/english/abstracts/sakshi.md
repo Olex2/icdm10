@@ -6,13 +6,14 @@ meta_title: ""
 description: ""
 summary: Intermolecular interactions offered by halogens are versatile, unpredictable, and mostly stabilizing. Among the halogens, the interactions offered by fluorine deserve special attention
 date: 2025-05-13
-categories: ["Talk"]
+categories: ["Session 5"]
 image: "/images/abstracts/sakshi.png"
 tags: ["H-bonding", "intermolecular interactions", "halogens", "fluorine", "charge density analysis", "X-ray diffraction", "molecular docking"]
 draft: false
+weight: 23
 params:
   math: true
-  tt: 2025-07-13T13:18:50Z
+  tt: 2025-07-15T09:00:50Z
 ---
 
 #### Sakshi<sup>a</sup>, Yogita Gupta<sup>b</sup>, Angshuman Roy Choudhury<sup>a</sup>,\* and Parthapratim Munshi<sup>b</sup>\*

@@ -6,14 +6,14 @@ meta_title: ""
 description: ""
 summary: Structure-based methods including docking and scoring of ligands aim to select the best potential hits for in vitro assays by ranking them according to predicted binding affinities. Virtual screening is based on docking programs providing several poses of the ligand within a binding site and a score attributed to each pose.
 date: 2025-05-13  
-categories: ["Talk", "Chemical Bonding"]
+categories: ["Session 5", "Chemical Bonding"]
 image: "/images/blank.png"
 tags: ["intermolecular interactions", "protein-ligand complex", "docking", "scoring function", "electrostatic complementarity"]
 draft: false
-
+weight: 21
 params:
   math: true
-  tt: 2025-07-13T13:18:50Z
+  tt: 2025-07-15T09:00:50Z
 
 ---
 

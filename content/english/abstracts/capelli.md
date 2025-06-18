@@ -6,14 +6,14 @@ meta_title: ""
 description: ""
 image: "/images/blank.png"
 date: 2025-03-21
-categories: ["Talk", "ADP"]
+categories: ["Session 3", "ADP"]
 tags: ["ADP", "neutron", "x-ray", "diffraction", "crystallography"]
 summary: "Although the theory behind single-crystal diffraction is exactly the same independently of using neutrons or x-rays, the two probes are sensitive to very different  constituents of the same crystal: nuclei and electron clouds respectively"
 draft: false
-
+weight: 12
 params:
   math: true
-  tt: 2025-07-14T13:18:50Z
+  tt: 2025-07-14T13:30:50Z
 
 ---
 

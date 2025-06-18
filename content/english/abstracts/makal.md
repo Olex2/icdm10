@@ -6,14 +6,14 @@ meta_title: ""
 description: ""
 summary: "In this talk I will demonstrate how certain robust Quantum Crystallography approaches such as Transferable Aspherical Atom Model (TAAM) or Hirshfeld Atom Refinement (HAR) can enhance crystal structure determination, leading to a more reliable and chemically-informative model..."
 date: 2025-06-11  
-categories: ["Talk",  "Methods"]
+categories: ["Session 4",  "Methods"]
 image: "/images/blank.png"
 tags: ["Quantum Crystallography", "routine structures", "TAAM", "HAR", "Hirshfeld Atom Refinement", "Transferable Aspherical Atom Model", "high-pressure diffraction"]
 draft: false
-
+weight: 16
 params:
   math: true
-  tt: 2025-07-13T13:18:50Z
+  tt: 2025-07-14T15:30:50Z
 ---
 
 #### Anna Makal

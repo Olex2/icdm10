@@ -5,13 +5,14 @@ affiliation: "University of Regensburg"
 meta_title: ""
 description: ""
 date: 2025-03-15
-categories: ["Talk", "Data Quality"]
+categories: ["Session 2", "Data Quality"]
 tags: ["large facilities", "synchrotron", "data quality"]
 draft: false
+weight: 8
 summary: The intensity of synchrotrons or free-electron lasers is unprecedented and the exact positions of atomic nuclei are referenced against data obtained from neutron sources. However, there has been significant progress in both the home lab instruments and the methods for modelling. As a result, many experiments that would have required a large-scale facility just a few years ago...
 
 params:
-  tt: 2025-07-14T13:18:50Z
+  tt: 2025-07-14T11:00:50Z
 
 ---
 

@@ -7,14 +7,14 @@ description: ""
 summary: "Focusing on both complex protein structures and small organic molecules, the lecture will explain how adapting electron density models from X‑ray diffraction to
 electron-based techniques can transform our understanding of molecular interactions and structures on the nanoscale"
 date: 2025-06-11  
-categories: ["Talk",  "Methods"]
+categories: ["Session 10",  "Methods"]
 image: "/images/blank.png"
 tags: ["Electron Diffraction", "Quantum Crystallography", "Charge Density", "Electron Density", "3D ED", "Cryo-EM", "Molecular Structures"]
 draft: false
-
+weight: 40
 params:
   math: true
-  tt: 2025-07-13T13:18:50Z
+  tt: 2025-07-17T09:00:50Z
 ---
 
 #### Paulina Maria Dominiak

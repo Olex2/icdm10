@@ -6,13 +6,13 @@ meta_title: ""
 description: ""
 image: "/images/blank.png"
 date: 2025-03-21
-categories: ["Flash-Talk"]
+categories: ["Flash-Talk II"]
 tags: []
-summary: 
+summary: Over the past decade, hybrid organic-inorganic perovskites (HOIPs) have received significant research consideration mainly because of their use as active layers in perovskite solar cells
 draft: false
 
 params:
-  tt: 2025-07-13T13:18:50Z
+ tt: 2025-07-13T13:18:50Z
 
 ---
 
@@ -22,10 +22,10 @@ params:
 
 ##### e-mail: Paola.LaMagna@UGent.be
 
-Over the past decade, hybrid organic-inorganic perovskites (HOIPs) have received significant research  consideration mainly because of  their  use  as  active  layers  in  perovskite  solar  cells  (PSC)  [1].  In  particular,  lower-dimensional  2D  HOIPs  are  currently  receiving increased  attention  because  of  their  generally  enhanced  material  stability  compared  to  their  3D  counterparts  and  their  much  higher degree of compositional flexibility [2,3]. One of the points of strength of the 2D HOIPs is that - whereas the A cation in 3D HOIPs (ABX<sub>3</sub>, B = Pb<sup>2+</sup> and X = I<sup>-</sup>, Br<sup>-</sup>, Cl<sup>-</sup>) can only be selected from a very limited range of small organic cations - the bulkier A* cation in 2D HOIPs (A\*2BX<sub>4</sub>) can be selected from a huge potential  cation  pool.  While most 2D HOIPs  synthesized so far primarily  utilize relatively  simple  A*  cations,  the  unique  2D  structure  offers  exciting  opportunities  to  develop  more  sophisticated  A*  cations  with
+Over the past decade, hybrid organic-inorganic perovskites (HOIPs) have received significant research consideration mainly because of their use as active layers in perovskite solar cells (PSC) [1]. In particular, lower-dimensional 2D HOIPs are currently receiving increased attention because of their generally enhanced material stability compared to their 3D counterparts and their much higher degree of compositional flexibility [2,3]. One of the points of strength of the 2D HOIPs is that - whereas the A cation in 3D HOIPs (ABX<sub>3</sub>, B = Pb<sup>2+</sup> and X = I<sup>-</sup>, Br<sup>-</sup>, Cl<sup>-</sup>) can only be selected from a very limited range of small organic cations - the bulkier A* cation in 2D HOIPs (A\*2BX<sub>4</sub>) can be selected from a huge potential cation pool. While most 2D HOIPs synthesized so far primarily utilize relatively simple A* cations, the unique 2D structure offers exciting opportunities to develop more sophisticated A* cations with
 enhanced functionalities, such as specific optical and/or (semi-)conducting properties.
 
-In this work, we explore the use of a benzotriazole derivative with a three-carbon alkyl spacer (BtaC3) to form a 2D HOIP. Single-crystal  X-ray  diffraction  (SCXRD)  analysis  revealed  that  the  benzotriazole-based  organic  layers  in  the  2D  HOIP  structure  show interdigitation, reducing the thickness of the organic layer and leading to an unusually dense packing layer (Figure 1a). We monitored the  material's  behavior  by  temperature  using  in  situ  PXRD;  the  stability  is  preserved  for  high  temperatures  until  a  phase  transition occurs at ±170 °C, however the sample changes the from single crystal to polycrystalline. Therefore, structure determination of the 2nd phase could only be effectively achieved using 3D Electron Diffraction (3DED). According to the obtained structure, the 2D packing is still maintained, but the interdigitation between the organic layers is lost (Figure 1b).
+In this work, we explore the use of a benzotriazole derivative with a three-carbon alkyl spacer (BtaC3) to form a 2D HOIP. Single-crystal X-ray diffraction (SCXRD) analysis revealed that the benzotriazole-based organic layers in the 2D HOIP structure show interdigitation, reducing the thickness of the organic layer and leading to an unusually dense packing layer (Figure 1a). We monitored the material's behavior by temperature using in situ PXRD; the stability is preserved for high temperatures until a phase transition occurs at ±170 °C, however the sample changes the from single crystal to polycrystalline. Therefore, structure determination of the 2nd phase could only be effectively achieved using 3D Electron Diffraction (3DED). According to the obtained structure, the 2D packing is still maintained, but the interdigitation between the organic layers is lost (Figure 1b).
 
 {{< absfig src="/images/abstracts/la_magna.jpg" alt="Crystal structures of (BtaC3) HOIP in its 1<sup>st</sup> (a) and 2<sup>nd</sup> (b) phase HOIP (unit cell)" width="100%">}}
 

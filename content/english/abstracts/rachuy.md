@@ -6,7 +6,7 @@ meta_title: ""
 description: ""
 image: "/images/abstracts/rachuy.png"
 date: 2025-06-09
-categories: ["Flash-Talk", "Chemistry"]
+categories: ["Flash-Talk II", "Chemistry"]
 tags: ["metal complexes", "transition metals", "magnetic anisotropy", "X-ray diffraction", "charge density", "DFT", "d-orbital population"]
 draft: false
 summary: In 2021 Stalke et al. analysed several tetrahedral distorted Co2+ complexes and predicted that a bite angle between 76-78° maximises the magnetic anisotropy, as it minimises the energy gap between the dxy and dx2-y2 orbital. The closer the orbitals are in energy, the larger is the magnetic anisotropy

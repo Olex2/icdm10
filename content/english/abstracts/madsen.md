@@ -5,14 +5,15 @@ affiliation: "University of Copenhagen"
 meta_title: ""
 description: ""
 date: 2025-05-16
-categories: ["Talk",  "Methods"]
+categories: ["Session 12",  "Methods"]
 image: "/images/abstracts/madsen.jpg"
 tags: ["structure solution", "AI", "low resolution", "quantum crystallography", "electron density"]
 draft: false
 summary: By exploring the intersection of AI and quantum crystallography, we aim to spark a dialogue on how these fields can co-evolve to tackle the enduring challenges of structural determination in the low-resolution regime.
+weight: 50
 params:
   math: true
-  tt: 2025-07-13T13:18:50Z
+  tt: 2025-07-17T13:30:50Z
 ---
 
 ### Anders Ø. Madsen <sup>a</sup>, Anders S. Larsen <sup>a</sup>, Toms Rekis <sup>b</sup> and Philipp Hans <sup>a</sup>

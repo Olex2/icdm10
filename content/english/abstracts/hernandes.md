@@ -5,7 +5,7 @@ affiliation: "Universidad Nacional Autónoma de México"
 meta_title: ""
 description: ""
 date: 2025-05-16
-categories: ["Flash-Talk", "Chemistry"]
+categories: ["Flash-Talk I", "Chemistry"]
 image: "/images/abstracts/hernandes.png"
 tags: ["cumulenes", "electron density", "delocalization index", "ellipticity", "QTAIM", "bonding analysis"]
 draft: false

@@ -5,14 +5,15 @@ affiliation: "University of Regensburg"
 meta_title: ""
 description: ""
 date: 2025-05-13
-categories: ["Talk", "Chemistry"]
+categories: ["Session 7", "Chemistry"]
 image: "/images/abstracts/meurer.jpg"
 tags: ["Chemical Bonding", "HAR", "non-spherical scattering factors", "actinides", "metallophilic interaction", "Hirshfeld-Atom-Refinement", "Th3 clusters"]
 draft: false
 summary: In this work, we want to present our advances of quantum crystallography into actinide-actinide bonding at the hands of two recently found Th3 clusters, one of which is a dianion, the other a mono-anion. Hirshfeld-Atom-Refinement was employed to get an accurate structure of both clusters
+weight: 27
 params:
   math: true
-  tt: 2025-07-13T13:18:50Z
+  tt: 2025-07-15T13:30:50Z
 ---
 
 #### Florian Meurer<sup>a</sup>, Stephen T. Liddle<sup>b</sup>, and Michael Bodensteiner<sup>a</sup>
