@@ -1,6 +1,6 @@
 ---
 title: "Chemical Bonding - Everything a Chemist Wants to Know!?"
-author: "Joachim Bretternitz"
+author: "Joachim Breternitz"
 affiliation: "FH Münster University of Applied Sciences"
 meta_title: ""
 description: ""
@@ -16,7 +16,7 @@ params:
   tt: 2025-07-15T11:00:50Z
 ---
 
-#### Joachim Bretternitz<sup>*</sup>
+#### Joachim Breternitz<sup>*</sup>
 
 ##### FH Münster University of Applied Sciences, Germany
 

@@ -1,5 +1,5 @@
 ---
-title: Joachim Bretternitz
+title: Joachim Breternitz
 image: "/images/authors/JB.jpg"
 description: 
 weight: 11

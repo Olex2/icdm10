@@ -1,9 +1,9 @@
 ---
 title: "Structural and optical properties of benzotriazole-based 2D hybrid perovskites"
-author: "Paopla La Magna"
+author: "Paola La Magna"
 affiliation: "Ghent University"
 meta_title: ""
-description: ""
+description: "" 
 image: "/images/blank.png"
 date: 2025-03-21
 categories: ["Flash-Talk II"]
