@@ -20,7 +20,7 @@ params:
 
 ##### <sup>a</sup>University of Regensburg, 93053 Regensburg, Germany. <sup>b</sup>The University of Manchester, Manchester, M13 9PL, UK.
 
-e-mail: florian.meurer@ur.de
+##### e-mail: florian.meurer@ur.de
 
 Metal-metal bonding plays a central role in explaining the structure and reactivity of compounds all across the periodic table. So far, the heaviest metal-metal interaction described by quantum crystallographical methods was an Au--Au metallophilic interaction.[1] In this work, we want to present our advances of quantum crystallography into actinide-actinide bonding at the hands of two recently found Th3 clusters (see Figure 1a, [2,3]), one of which is a dianion, the other a monoanion. Hirshfeld-Atom-Refinement (HAR, [4,5]) was employed to get an accurate structure of both clusters and compare the results to in vacuo optimised density functional theory (DFT).
 
