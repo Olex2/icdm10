@@ -6,13 +6,13 @@ meta_title: ""
 description: "" 
 image: "/images/blank.png"
 date: 2025-03-21
-categories: ["Flash-Talk II"]
+categories: ["Flash-Talks 2"]
 tags: []
 summary: Over the past decade, hybrid organic-inorganic perovskites (HOIPs) have received significant research consideration mainly because of their use as active layers in perovskite solar cells
 draft: false
 
 params:
- tt: 2025-07-13T13:18:50Z
+ tt: 2025-07-13T16:37:50Z
 
 ---
 

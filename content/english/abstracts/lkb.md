@@ -13,7 +13,7 @@ weight: 23
 summary: Data collection on single crystals starts with recording raw diffraction images (data frames). These 'raw' data frames have usually already been corrected for spatial distortions and non-uniformities of the detector response.
 params:
   math: true
-  tt: 2025-07-14T09:00:50Z
+  tt: 2025-07-14T09:40:50Z
 ---
 
 #### Loes Kroon-Batenburg

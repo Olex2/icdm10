@@ -13,7 +13,7 @@ summary: A weakness of current NMR crystallography for organic solids is the rel
 weight: 48
 params:
   math: true
-  tt: 2025-07-17T11:00:50Z
+  tt: 2025-07-17T11:20:50Z
 ---
 
 #### Paul Hodgkinson<sup>a</sup>, Paul Niklas Ruth<sup>b</sup>

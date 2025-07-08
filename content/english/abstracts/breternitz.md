@@ -13,7 +13,7 @@ summary: The different concepts of chemical bonding are not only relevant for mo
 weight: 25
 params:
   math: true
-  tt: 2025-07-15T11:00:50Z
+  tt: 2025-07-14T10:35:50Z
 ---
 
 #### Joachim Breternitz<sup>*</sup>

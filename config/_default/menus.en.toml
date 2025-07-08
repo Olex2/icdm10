@@ -12,7 +12,7 @@ url = "abstracts/"
 weight = 3
 
 [[main]]
-name = "Registration | In Durham"
+name = "Program | In Durham"
 url = "registration/"
 weight = 4
 

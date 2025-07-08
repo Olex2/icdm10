@@ -14,7 +14,7 @@ summary: Polymorphism, i.e., the ability of a molecule to possess diverse spatia
 weight: 22
 params:
   math: true
-  tt: 2025-07-15T09:00:50Z
+  tt: 2025-07-15T10:00:50Z
 
 ---
 

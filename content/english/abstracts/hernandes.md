@@ -5,7 +5,7 @@ affiliation: "Universidad Nacional Autónoma de México"
 meta_title: ""
 description: ""
 date: 2025-05-16
-categories: ["Flash-Talk I", "Chemistry"]
+categories: ["Flash-Talks 2", "Chemistry"]
 image: "/images/abstracts/hernandes.png"
 tags: ["cumulenes", "electron density", "delocalization index", "ellipticity", "QTAIM", "bonding analysis"]
 draft: false
@@ -13,7 +13,7 @@ summary: QTAIM calculations were conducted to shed light on the nature of bonds 
 
 params:
   math: true
-  tt: 2025-07-13T13:18:50Z
+  tt: 2025-07-15T16:30:50Z
 
 ---
 

@@ -1,6 +1,17 @@
 ---
-title: "Registration"
+title: "Program | In Durham"
 ---
+
+
+# Program
+
+The program for the conference is available as a Google Spreadsheet. You can view it online or download is as PDF.
+
+
+{{< button label="Link to Program" link="https://docs.google.com/spreadsheets/d/1kEaEOD2pD4JKC-pdxDQG8pM3oGXz7cYKq-LUBS7f1eA/edit?usp=sharing" style="solid" >}}
+
+
+![Program](/images/gallery/program.png)
 
 
 # In Durham

@@ -13,7 +13,7 @@ summary: In this work, we want to present our advances of quantum crystallograph
 weight: 27
 params:
   math: true
-  tt: 2025-07-15T13:30:50Z
+  tt: 2025-07-15T14:30:50Z
 ---
 
 #### Florian Meurer<sup>a</sup>, Stephen T. Liddle<sup>b</sup>, and Michael Bodensteiner<sup>a</sup>

@@ -12,7 +12,7 @@ summary: "We would like to present the current status of the diffractometer at t
 
 params:
   math: true
-  tt: 2025-07-14T13:30:50Z
+  tt: 2025-07-14T14:00:50Z
 
 ---
 

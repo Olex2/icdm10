@@ -13,7 +13,7 @@ draft: false
 weight: 34
 params:
   math: true
-  tt: 2025-07-16T11:00:50Z
+  tt: 2025-07-16T11:30:50Z
 ---
 
 #### Martí Gimferrer

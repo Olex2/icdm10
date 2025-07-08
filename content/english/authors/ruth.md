@@ -1,5 +1,5 @@
 ---
-title: Niklas Ruth
+title: "Niklas Ruth"
 email: paul.n.ruth@durham.ac.uk
 image: "/images/authors/PNR.jpg"
 description: Niklas Ruth is a local organiser of the ICDM10

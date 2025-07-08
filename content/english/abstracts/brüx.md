@@ -4,8 +4,9 @@ author: "Daniel Brüx"
 affiliation: RWTH Aachen"
 meta_title: ""
 description: ""
+weight: 100 
 date: 2025-05-16
-categories: ["Flash-Talk I",  "Methods"]
+categories: ["Flash-Talks 1",  "Methods"]
 image: "/images/abstracts/brüx.png"
 tags: ["Spin State", "Transition Metal Complexes", "HAR", "QTAIM", "Charge Density", "X-ray Diffraction"]
 draft: false
@@ -13,7 +14,7 @@ summary: The spin states of transition metal complexes have been extensively stu
 
 params:
   math: true
-  tt: 2025-07-13T13:18:50Z
+  tt: 2025-07-14T12:30:50Z
 
 ---
 

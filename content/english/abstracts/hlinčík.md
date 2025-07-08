@@ -5,7 +5,7 @@ affiliation: "Slovak University of Technology in Bratislava"
 meta_title: ""
 description: ""
 date: 2025-05-16
-categories: ["Flash-Talk II", "Chemistry"]
+categories: ["Flash-Talks 2", "Chemistry"]
 image: "/images/abstracts/hlinčík.png"
 tags: ["Chemical Bonding", "metal-metal interaction", "DFT", "Cr(I)-Cr(I) bond", "QTAIM"]
 draft: false
@@ -13,8 +13,7 @@ summary: The metal-metal interaction fascinated scientist for many years. In thi
 
 params:
   math: true
-  tt: 2025-07-13T13:18:50Z
-
+  tt: 2025-07-13T16:44:50Z
 ---
 
 #### Andrej Hlinčík, Lukáš Bučinskýa, Jozef Kožíšek
