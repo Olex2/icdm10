@@ -5,7 +5,7 @@ affiliation: "University of Copenhagen"
 meta_title: ""
 description: ""
 date: 2025-05-16
-categories: ["Session 12",  "Methods"]
+categories: ["Session 13",  "Methods"]
 image: "/images/abstracts/madsen.jpg"
 tags: ["structure solution", "AI", "low resolution", "quantum crystallography", "electron density"]
 draft: false

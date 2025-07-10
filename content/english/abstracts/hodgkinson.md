@@ -6,7 +6,7 @@ meta_title: ""
 description: ""
 image: "/images/blank.png"
 date: 2025-05-02
-categories: ["Session 11", "NMR"]
+categories: ["Session 12", "NMR"]
 tags: ["NMR", "Quantum Crystallography", "DFT", "NMR Crystallography"]
 draft: false
 summary: A weakness of current NMR crystallography for organic solids is the relatively poor positioning of H by independent atom modelling in XRD refinement. In order to obtain reasonable agreement with NMR data

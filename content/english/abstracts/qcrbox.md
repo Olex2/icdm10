@@ -4,7 +4,7 @@ author: "Niklas Ruth"
 affiliation: "Durham University"
 summary: "We will report on our progress to build a similarly user-friendly platform, that focusses on reducing practical barriers such as complex  multi-software workflows, interoperability challenges, and installation difficulties across diverse operating systems and software dependencies."
 date: 2025-07-07
-categories: ["Session 12", "Thursday pm"]
+categories: ["Session 13", "Thursday pm"]
 image: "/images/blank.png"
 tags: ["QCrBox", "Quantum Crystallography", "Containerisation", "docker", "workflows"]
 draft: false

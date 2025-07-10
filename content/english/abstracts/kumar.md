@@ -5,7 +5,7 @@ affiliation: "University of Warsaw"
 meta_title: ""
 description: ""
 date: 2025-05-16
-categories: ["Session 10"]
+categories: ["Session 11"]
 image: "/images/abstracts/kumar.png"
 tags: ["3D-ED", "multipole modelling", "charge density", "quantum crystallography", "organic nanocrystals"]
 draft: false

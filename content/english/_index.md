@@ -7,8 +7,8 @@ Learn how Quantum Crytallography can do this for all of your structures! The Int
   image: "/images/ICDM10.jpg"
   button:
     enable: true
-    label: "Proposed Topics"
-    link: "topics"
+    label: "Program"
+    link: "registration"
 
 
 

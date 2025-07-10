@@ -4,7 +4,7 @@ author: "Florian Kleemiss"
 affiliation: "RWTH Aachen"
 summary: "An update on the QCr CIF dictionary, which is currently under development."
 date: 2025-05-26
-categories: ["Session 12"]
+categories: ["Session 13"]
 image: "/images/blank.png"
 tags: []
 draft: false

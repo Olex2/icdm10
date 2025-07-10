@@ -7,7 +7,7 @@ description: ""
 summary: Today, the X-ray restrained wavefunction (XRW) method (also known as X-ray constrained wavefunction (XCW) approach) stands as one of the cornerstone techniques in modern quantum crystallography. First introduced by Dylan Jayatilaka in 1998, the strategy has undergone a steady and continuous methodological development...
 date: 2025-05-13
 image: "/images/blank.png"
-categories: ["Session 8",  "Methods"]
+categories: ["Session 9",  "Methods"]
 tags: ["XRW", "XCW", "Quantum Crystallography", "Chemical Bonding", "Charge Density", "X-ray Diffraction"]
 draft: false
 weight: 33

@@ -6,7 +6,7 @@ meta_title: ""
 description: ""
 image: "/images/blank.png"
 date: 2025-03-21
-categories: ["Session 11", "Data Quality"]
+categories: ["Session 12", "Data Quality"]
 tags: ["Data Quality", "Quality Framework", "Quantum Crystallography", "Electron Diffraction"]
 summary: Crystallography has established a de-facto, well-understood, level of quality in its data over many decades. This is largely based on a long history of standardised instrumentation
 draft: false

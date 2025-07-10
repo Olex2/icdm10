@@ -7,7 +7,7 @@ description: ""
 summary: "Focusing on both complex protein structures and small organic molecules, the lecture will explain how adapting electron density models from X‑ray diffraction to
 electron-based techniques can transform our understanding of molecular interactions and structures on the nanoscale"
 date: 2025-06-11  
-categories: ["Session 10",  "Methods"]
+categories: ["Session 11",  "Methods"]
 image: "/images/blank.png"
 tags: ["Electron Diffraction", "Quantum Crystallography", "Charge Density", "Electron Density", "3D ED", "Cryo-EM", "Molecular Structures"]
 draft: false

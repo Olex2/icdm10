@@ -6,7 +6,7 @@ meta_title: ""
 description: ""
 summary: "Charge density research and electron diffraction share  well-established historical connection. This presentation provides a concise overview of various electron diffraction and microscopy techniques capable of yielding valuable charge density information"
 date: 2025-05-13  
-categories: ["Session 11"]
+categories: ["Session 12"]
 image: "/images/blank.png"
 tags: []
 draft: false

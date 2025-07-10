@@ -7,7 +7,7 @@ description: ""
 summary: We  aim  to  include  chemical  bonding  effects  within  the  refinement  techniques  from  structural  biology  by  integrating covalent bond analysis methodologies with contemporary structure refinement techniques.
 date: 2025-05-09  
 image: "/images/blank.png"
-categories: ["Session 9",  "Methods"]
+categories: ["Session 10",  "Methods"]
 tags: ["protein crystallography",  "chemical bonding", "atoms in molecules", "real-space analysis", "segregated atom model", "quantum crystallography"]
 draft: false
 weight: 34

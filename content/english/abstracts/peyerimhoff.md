@@ -8,7 +8,7 @@ categories: ["Session 7"]
 image: "/images/blank.png"
 tags: []
 draft: false
-weight: 28
+weight: 27  
 params:
   math: true
   tt: 2025-07-15T14:00:50Z

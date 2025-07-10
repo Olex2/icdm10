@@ -6,7 +6,7 @@ meta_title: ""
 description: ""
 summary: Recent efforts have focused on extending the MATTS data bank to cover unusual chemical topologies in small molecules. A key component involved machine learning-driven tools...
 date: 2025-05-13  
-categories: ["Session 8",  "Methods"]
+categories: ["Session 9",  "Methods"]
 image: "/images/blank.png"
 tags: ["electron density", "aspherical", "TAAM", "Multipole Model", "MATTS databank", "machine learning", "macromolecules", "protein dictionary"]
 draft: false

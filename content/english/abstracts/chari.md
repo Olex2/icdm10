@@ -6,7 +6,7 @@ meta_title: ""
 description: ""
 image: "/images/blank.png"
 date: 2025-03-21
-categories: ["Session 8", "Macromolecular Crystallography"]
+categories: ["Session 9", "Macromolecular Crystallography"]
 tags: ["macromolecular", "high-accuracy", "high-precision", "protein crystallography", "MXCuBE2", "Global Phasing Ltd.", "P14", "PETRA III", "DESY"]
 summary: I introduce a novel concept of high-energy data acquisition with a highly optimized setup and workflow for protein crystallography. I will present how the implementation of these procedures allows us to routinely collect single-crystal datasets at atomic and sub-Å resolution.
 draft: false

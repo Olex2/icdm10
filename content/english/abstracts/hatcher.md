@@ -7,7 +7,7 @@ meta_title: ""
 description: ""
 summary: TBC
 date: 2025-06-11  
-categories: ["Session 10",  "Methods"]
+categories: ["Session 11",  "Methods"]
 image: "/images/abstracts/hatcher.png"
 tags: []
 draft: false
