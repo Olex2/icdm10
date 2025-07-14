@@ -4,7 +4,7 @@ author: ""
 meta_title: ""
 description: ""
 date: 2025-03-15
-categories: ["Session 2"]
+categories: ["Session 8"]
 draft: false
 weight: 8
 summary: Flash talks

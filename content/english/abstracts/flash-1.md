@@ -3,10 +3,10 @@ title: "Flash Talks 1"
 author: ""
 meta_title: ""
 description: ""
-date: 2025-03-15
+date: 2025-07-10
 categories: ["Session 2"]
 draft: false
-weight: 8
+weight: 10
 summary: Flash talks
 
 params:
