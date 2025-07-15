@@ -9,3 +9,7 @@ description: "Support for Students and early career scientists"
 {{< absfig src="/images/dectris.png" width="100%">}}
 
 {{< absfig src="/images/rigaku.png" width="100%">}}
+
+{{< absfig src="/images/iucr.png" width="100%">}}
+
+{{< absfig src="/images/olexsys.png" width="100%">}}
