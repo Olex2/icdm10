@@ -10,7 +10,7 @@ weight: 85
 summary: Flash talks
 
 params:
-  tt: 2025-07-15T16:30:50Z
+  tt: 2025-07-16T12:00:50Z
 ---
 <p>
 
