@@ -2,20 +2,6 @@
 title: "Program | In Durham"
 ---
 
-# In Durham
-
-To get from the station to Collingwood College, you can either walk (~25 minutes) or take a taxi. There are also bus connections – please use Google Maps to find the best route when you arrive.
-
-<iframe class="center_iframe" src="https://www.google.com/maps/d/u/0/embed?mid=17O_hma94fu4THLjl5A1DxI1Pmr_ggho&ehbc=2E312F" width="640" height="480"></iframe>
-
-Durham is a very small town, and the conferenceaccomodation is at [Collingwood College](https://www.durham.ac.uk/colleges-and-student-experience/colleges/collingwood/), which is located on the outskirts of the city. The college is a 20-minute walk from the city centre, and there are also buses that run frequently.
-
-> The conference venue is the **Old Business School on Mill Hill Lane**, which is a 10-minute walk from Collingwood College, and not the New Business School, which is in the city centre!
-
-
-Getting about by foot is safe and easy, and the city is very walkable -- and the walk along the river offers stunning views of the cathedral.
-
-
 
 # Program
 
@@ -37,8 +23,22 @@ The program for the conference is available as a Google Spreadsheet. You can vie
 ![Program](/images/gallery/program.png)
 
 
+# In Durham
 
-{{< button label="Register Here" link="https://pay.durham.ac.uk/event-durham/icdm10" style="solid" >}}
+To get from the station to Collingwood College, you can either walk (~25 minutes) or take a taxi. There are also bus connections – please use Google Maps to find the best route when you arrive.
+
+<iframe class="center_iframe" src="https://www.google.com/maps/d/u/0/embed?mid=17O_hma94fu4THLjl5A1DxI1Pmr_ggho&ehbc=2E312F" width="640" height="480"></iframe>
+
+Durham is a very small town, and the conferenceaccomodation is at [Collingwood College](https://www.durham.ac.uk/colleges-and-student-experience/colleges/collingwood/), which is located on the outskirts of the city. The college is a 20-minute walk from the city centre, and there are also buses that run frequently.
+
+> The conference venue is the **Old Business School on Mill Hill Lane**, which is a 10-minute walk from Collingwood College, and not the New Business School, which is in the city centre!
+
+
+Getting about by foot is safe and easy, and the city is very walkable -- and the walk along the river offers stunning views of the cathedral.
+
+
+<!-- 
+{{< button label="Register Here" link="https://pay.durham.ac.uk/event-durham/icdm10" style="solid" >}} -->
 
 > Note: The registaration to the conference and the [abstract submission](/abstracts/samples_abstract/) are indepentent processes. There is no hard deadline for the submission of abstracts and you can change your abstract at any time.
 
