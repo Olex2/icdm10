@@ -20,14 +20,14 @@ Oleg Dolomanov
 ### NoSpherA2
 Florian Kleemiss
 
-## TAAM
+### TAAM
 Paulina Dominiak
 
-## X-Harpy
+### X-Harpy
 Niklas Ruth
 
-## PhAI
+### PhAI
 Anders Madsen
 
-## NoMoRe
+### NoMoRe
 Anna Hoser
