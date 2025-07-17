@@ -10,7 +10,7 @@ title: "Program | In Durham"
 |[Session 1](/categories/session-1/)<br>**09.00 am** |[Session 5](/categories/session-5/) <br>**09.00 am**|[Session 9](/categories/session-9/) <br>**09.00 am**|[Session 11](/categories/session-11/) <br>**09.00 am**|
 |[Session 2](/categories/session-2/)<br>**11.30 am** |[Session 6](/categories/session-6/) <br>**11.30 am**|[Session 10](/categories/session-10/)<br>**11.00 am**|[Session 12](/categories/session-12/) <br>**11.00 am**|
 | | | | |
-|[Session 3](/categories/session-3/)<br>**14.00 pm** |[Session 7](/categories/session-7/) <br>**14.00 pm**|Cathedral Tour <br>**13.30 am**|[Session 13](/categories/session-13/)<br>**09.00 am**|
+|[Session 3](/categories/session-3/)<br>**14.00 pm** |[Session 7](/categories/session-7/) <br>**14.00 pm**|Cathedral Tour <br>**13.30 am**|[Session 13](/categories/session-13/)<br>**13.30 am**|
 |[Session 4](/categories/session-4/)<br>**16.00 pm** |[Session 8](/categories/session-8/) <br>**16.00 pm**|Free / Dinner <br>**18.45 pm** |[Session 14](/categories/session-14/) <br> **13.30 pm**|
 
 
